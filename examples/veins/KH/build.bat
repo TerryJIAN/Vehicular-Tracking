@@ -1,0 +1,2 @@
+python "%SUMO_HOME%\tools\randomTrips.py" -n osm.net.xml --seed 2048 --fringe-factor 60 -p 1 -r KHosm.rou.xml -o KHosm.trips.xml -e 5000 --vehicle-class passenger --vclass passenger --prefix veh --min-distance 300 --trip-attributes "departLane=\"best\"" --validate
+duarouter  -n osm.net.xml -r KHosm.trips.xml --random true -o 1osm.rou.xml

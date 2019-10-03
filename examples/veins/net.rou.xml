@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<routes>
+
+    <vType id="passenger" speedFactor="normc(1.00,0.10,0.20,2.00)" vClass="passenger" />
+    <vType id="target" speedFactor="1.25" speedDev="0" vClass="ignoring"/>
+<!--   
+    <trip id="veh0" depart="0" from="gneE34" to="gneE71" type="passenger" via="gneE8" 
+	
+   <flow id="veh12" color="0,255,0"  begin="0" end= "500" probability="0.08"  type="passenger">
+    <route edges="gneE17 gneE57 gneE12 gneE52"/></flow> 
+
+
+	--> 
+         
+   <flow id="veh0" color="0,255,0" from="-0" to="-1"  via="-23 -22"  begin="0" end= "330" probability="0.06"  type="passenger"/> 
+   <flow id="veh1" color="0,255,0" from="-1" to="-2"  via="-22 -21"  begin="0" end= "330" probability="0.04"  type="passenger"/>  
+   <flow id="veh2" color="0,255,0" from="-2" to="-3"  via="-21 -20"  begin="0" end= "330" probability="0.08"  type="passenger"/>  
+   <flow id="veh3" color="0,255,0" from="-3" to="-4"  via="-20 -19"  begin="1" end= "330" probability="0.06"  type="passenger"/> 
+   <flow id="veh4" color="0,255,0" from="-4" to="-5"  via="-19 -18"  begin="1" end= "330" probability="0.08"  type="passenger"/>
+   <flow id="veh5" color="0,255,0" from="-5" to="-6"  via="-18 -17"  begin="1" end= "330" probability="0.04"  type="passenger"/>
+   <flow id="veh6" color="0,255,0" from="-6" to="-7"  via="-17 -16"  begin="1" end= "330" probability="0.06"  type="passenger"/>
+   
+   <flow id="veh-0" color="0,255,0" from="23" to="22"  via="0 1"  begin="2" end= "330" probability="0.06"  type="passenger"/>
+   <flow id="veh-1" color="0,255,0" from="22" to="21"  via="1 2"  begin="2" end= "330" probability="0.07"  type="passenger"/>
+   <flow id="veh-2" color="0,255,0" from="21" to="20"  via="2 3"  begin="2" end= "330" probability="0.04"  type="passenger"/>
+   <flow id="veh-3" color="0,255,0" from="20" to="19"  via="3 4"  begin="2" end= "330" probability="0.08"  type="passenger"/>
+   <flow id="veh-5" color="0,255,0" from="18" to="17"  via="5 6"  begin="3" end= "330" probability="0.03"  type="passenger"/>
+   <flow id="veh-4" color="0,255,0" from="19" to="18"  via="4 5 "  begin="3" end= "330" probability="0.10"  type="passenger"/>
+   <flow id="veh-6" color="0,255,0" from="17" to="16"  via="6 7"  begin="3" end= "330" probability="0.04"  type="passenger"/>
+   
+   <flow id="veh7" color="0,255,0" from="30" to="30"  via="9 10 29"  begin="4" end= "330" probability="0.05"  type="passenger"/>   
+   <flow id="veh8" color="0,255,0" from="29" to="29"  via="10 11 28"  begin="4" end= "330" probability="0.07"  type="passenger"/>   
+   <flow id="veh9" color="0,255,0" from="28" to="28"  via="11 12 27"  begin="5" end= "330" probability="0.08"  type="passenger"/>  
+   <flow id="veh10" color="0,255,0" from="27" to="27"  via="12 13 26"  begin="5" end= "330" probability="0.05"  type="passenger"/>   
+   <flow id="veh11" color="0,255,0" from="26" to="26"  via="13 14 25"  begin="5" end= "330" probability="0.06"  type="passenger"/>
+   <flow id="veh12" color="0,255,0" from="25" to="25"  via="14 15 23"  begin="5" end= "330" probability="0.04"  type="passenger"/>
+   
+   <flow id="veh-7" color="0,255,0" from="-9" to="-9"  via="-30 29 -10"  begin="6" end= "330" probability="0.03"  type="passenger"/>
+   <flow id="veh-8" color="0,255,0" from="-10" to="-10"  via="-29 -28 -11"  begin="6" end= "330" probability="0.04"  type="passenger"/>
+   <flow id="veh-9" color="0,255,0" from="-11" to="-11"  via=" -28 -27 -12"  begin="6" end= "330" probability="0.06"  type="passenger"/>
+   <flow id="veh-10" color="0,255,0" from="-12" to="-12"  via="-27 -26 -13"  begin="7" end= "330" probability="0.04"  type="passenger"/>
+   <flow id="veh-11" color="0,255,0" from="-13" to="-13"  via="-26 -25 -14"  begin="7" end= "330" probability="0.10"  type="passenger"/>
+   <flow id="veh-12" color="0,255,0" from="-14" to="-14"  via="-25 -24 -15"  begin="7" end= "330" probability="0.03"  type="passenger"/>
+	   
+
+	<vehicle color="255,0,0" id="target" type="target" depart="150">
+        <route edges="
+		-23 -22 -130 -129 -67 -66 -118 -117 101 102 -61 -60 113 -38 -37
+	"/>        
+	</vehicle>
+
+
+	</routes>

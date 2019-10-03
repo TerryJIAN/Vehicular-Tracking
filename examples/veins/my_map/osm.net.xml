@@ -1,0 +1,1951 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<net version="0.27" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/net_file.xsd">
+
+    <location netOffset="0.00,0.00" convBoundary="-400.00,-400.00,400.00,400.00" origBoundary="-10000000000.00,-10000000000.00,10000000000.00,10000000000.00" projParameter="!"/>
+
+    <edge id=":cross1_0" function="internal">
+        <lane id=":cross1_0_0" index="0" speed="13.89" length="18.55" shape="-393.45,404.95 -398.48,404.23 -402.07,402.07 -404.23,398.48 -404.95,393.45"/>
+    </edge>
+    <edge id=":cross1_1" function="internal">
+        <lane id=":cross1_1_0" index="0" speed="13.89" length="13.22" shape="-393.45,401.65 -397.04,401.14 -399.60,399.60 -401.14,397.04 -401.65,393.45"/>
+    </edge>
+    <edge id=":cross1_2" function="internal">
+        <lane id=":cross1_2_0" index="0" speed="13.89" length="2.58" shape="-395.05,393.45 -394.95,394.15 -394.65,394.65 -394.15,394.95 -393.45,395.05"/>
+    </edge>
+    <edge id=":cross1_3" function="internal">
+        <lane id=":cross1_3_0" index="0" speed="13.89" length="7.90" shape="-398.35,393.45 -398.04,395.59 -397.13,397.13 -395.59,398.04 -393.45,398.35"/>
+    </edge>
+    <edge id=":cross10_0" function="internal">
+        <lane id=":cross10_0_0" index="0" speed="13.89" length="5.00" shape="395.05,208.05 394.86,206.69 394.28,205.73 393.31,205.14 391.95,204.95"/>
+    </edge>
+    <edge id=":cross10_1" function="internal">
+        <lane id=":cross10_1_0" index="0" speed="13.89" length="16.10" shape="395.05,208.05 395.05,191.95"/>
+        <lane id=":cross10_1_1" index="1" speed="13.89" length="16.10" shape="398.35,208.05 398.35,191.95"/>
+    </edge>
+    <edge id=":cross10_3" function="internal">
+        <lane id=":cross10_3_0" index="0" speed="13.89" length="16.10" shape="404.95,191.95 404.95,208.05"/>
+        <lane id=":cross10_3_1" index="1" speed="13.89" length="16.10" shape="401.65,191.95 401.65,208.05"/>
+    </edge>
+    <edge id=":cross10_5" function="internal">
+        <lane id=":cross10_5_0" index="0" speed="13.89" length="6.41" shape="401.65,191.95 401.04,196.19 399.95,198.02"/>
+    </edge>
+    <edge id=":cross10_8" function="internal">
+        <lane id=":cross10_8_0" index="0" speed="13.89" length="9.23" shape="399.95,198.02 399.22,199.22 396.19,201.04 391.95,201.65"/>
+    </edge>
+    <edge id=":cross10_6" function="internal">
+        <lane id=":cross10_6_0" index="0" speed="13.89" length="5.00" shape="391.95,195.05 393.31,194.86 394.27,194.28 394.86,193.31 395.05,191.95"/>
+    </edge>
+    <edge id=":cross10_7" function="internal">
+        <lane id=":cross10_7_0" index="0" speed="13.89" length="15.64" shape="391.95,198.35 396.19,198.96 399.23,200.77 401.04,203.81 401.65,208.05"/>
+    </edge>
+    <edge id=":cross11_0" function="internal">
+        <lane id=":cross11_0_0" index="0" speed="13.89" length="16.10" shape="-404.95,8.05 -404.95,-8.05"/>
+        <lane id=":cross11_0_1" index="1" speed="13.89" length="16.10" shape="-401.65,8.05 -401.65,-8.05"/>
+    </edge>
+    <edge id=":cross11_2" function="internal">
+        <lane id=":cross11_2_0" index="0" speed="13.89" length="6.41" shape="-401.65,8.05 -401.04,3.81 -399.95,1.98"/>
+    </edge>
+    <edge id=":cross11_8" function="internal">
+        <lane id=":cross11_8_0" index="0" speed="13.89" length="9.23" shape="-399.95,1.98 -399.22,0.77 -396.19,-1.04 -391.95,-1.65"/>
+    </edge>
+    <edge id=":cross11_3" function="internal">
+        <lane id=":cross11_3_0" index="0" speed="13.89" length="5.00" shape="-391.95,4.95 -393.31,5.14 -394.27,5.73 -394.86,6.69 -395.05,8.05"/>
+    </edge>
+    <edge id=":cross11_4" function="internal">
+        <lane id=":cross11_4_0" index="0" speed="13.89" length="15.64" shape="-391.95,1.65 -396.19,1.04 -399.23,-0.78 -401.04,-3.81 -401.65,-8.05"/>
+    </edge>
+    <edge id=":cross11_5" function="internal">
+        <lane id=":cross11_5_0" index="0" speed="13.89" length="5.00" shape="-395.05,-8.05 -394.86,-6.69 -394.28,-5.72 -393.31,-5.14 -391.95,-4.95"/>
+    </edge>
+    <edge id=":cross11_6" function="internal">
+        <lane id=":cross11_6_0" index="0" speed="13.89" length="16.10" shape="-395.05,-8.05 -395.05,8.05"/>
+        <lane id=":cross11_6_1" index="1" speed="13.89" length="16.10" shape="-398.35,-8.05 -398.35,8.05"/>
+    </edge>
+    <edge id=":cross12_0" function="internal">
+        <lane id=":cross12_0_0" index="0" speed="13.89" length="5.00" shape="-204.95,8.05 -205.14,6.69 -205.72,5.73 -206.69,5.14 -208.05,4.95"/>
+    </edge>
+    <edge id=":cross12_1" function="internal">
+        <lane id=":cross12_1_0" index="0" speed="13.89" length="16.10" shape="-204.95,8.05 -204.95,-8.05"/>
+        <lane id=":cross12_1_1" index="1" speed="13.89" length="16.10" shape="-201.65,8.05 -201.65,-8.05"/>
+    </edge>
+    <edge id=":cross12_3" function="internal">
+        <lane id=":cross12_3_0" index="0" speed="13.89" length="6.41" shape="-201.65,8.05 -201.04,3.81 -199.95,1.98"/>
+    </edge>
+    <edge id=":cross12_16" function="internal">
+        <lane id=":cross12_16_0" index="0" speed="13.89" length="9.23" shape="-199.95,1.98 -199.23,0.77 -196.19,-1.04 -191.95,-1.65"/>
+    </edge>
+    <edge id=":cross12_4" function="internal">
+        <lane id=":cross12_4_0" index="0" speed="13.89" length="5.00" shape="-191.95,4.95 -193.31,5.14 -194.27,5.73 -194.86,6.69 -195.05,8.05"/>
+    </edge>
+    <edge id=":cross12_5" function="internal">
+        <lane id=":cross12_5_0" index="0" speed="13.89" length="16.10" shape="-191.95,4.95 -208.05,4.95"/>
+        <lane id=":cross12_5_1" index="1" speed="13.89" length="16.10" shape="-191.95,1.65 -208.05,1.65"/>
+    </edge>
+    <edge id=":cross12_7" function="internal">
+        <lane id=":cross12_7_0" index="0" speed="13.89" length="15.64" shape="-191.95,1.65 -196.19,1.04 -199.22,-0.78 -201.04,-3.81 -201.65,-8.05"/>
+    </edge>
+    <edge id=":cross12_8" function="internal">
+        <lane id=":cross12_8_0" index="0" speed="13.89" length="5.00" shape="-195.05,-8.05 -194.86,-6.69 -194.28,-5.73 -193.31,-5.14 -191.95,-4.95"/>
+    </edge>
+    <edge id=":cross12_9" function="internal">
+        <lane id=":cross12_9_0" index="0" speed="13.89" length="16.10" shape="-195.05,-8.05 -195.05,8.05"/>
+        <lane id=":cross12_9_1" index="1" speed="13.89" length="16.10" shape="-198.35,-8.05 -198.35,8.05"/>
+    </edge>
+    <edge id=":cross12_11" function="internal">
+        <lane id=":cross12_11_0" index="0" speed="13.89" length="6.41" shape="-198.35,-8.05 -198.96,-3.81 -200.05,-1.98"/>
+    </edge>
+    <edge id=":cross12_17" function="internal">
+        <lane id=":cross12_17_0" index="0" speed="13.89" length="9.23" shape="-200.05,-1.98 -200.77,-0.77 -203.81,1.04 -208.05,1.65"/>
+    </edge>
+    <edge id=":cross12_12" function="internal">
+        <lane id=":cross12_12_0" index="0" speed="13.89" length="5.00" shape="-208.05,-4.95 -206.69,-5.14 -205.73,-5.73 -205.14,-6.69 -204.95,-8.05"/>
+    </edge>
+    <edge id=":cross12_13" function="internal">
+        <lane id=":cross12_13_0" index="0" speed="13.89" length="16.10" shape="-208.05,-4.95 -191.95,-4.95"/>
+        <lane id=":cross12_13_1" index="1" speed="13.89" length="16.10" shape="-208.05,-1.65 -191.95,-1.65"/>
+    </edge>
+    <edge id=":cross12_15" function="internal">
+        <lane id=":cross12_15_0" index="0" speed="13.89" length="15.64" shape="-208.05,-1.65 -203.81,-1.04 -200.78,0.78 -198.96,3.81 -198.35,8.05"/>
+    </edge>
+    <edge id=":cross13_0" function="internal">
+        <lane id=":cross13_0_0" index="0" speed="13.89" length="5.00" shape="-4.95,8.05 -5.14,6.69 -5.73,5.73 -6.69,5.14 -8.05,4.95"/>
+    </edge>
+    <edge id=":cross13_1" function="internal">
+        <lane id=":cross13_1_0" index="0" speed="13.89" length="16.10" shape="-4.95,8.05 -4.95,-8.05"/>
+        <lane id=":cross13_1_1" index="1" speed="13.89" length="16.10" shape="-1.65,8.05 -1.65,-8.05"/>
+    </edge>
+    <edge id=":cross13_3" function="internal">
+        <lane id=":cross13_3_0" index="0" speed="13.89" length="6.41" shape="-1.65,8.05 -1.04,3.81 0.05,1.98"/>
+    </edge>
+    <edge id=":cross13_16" function="internal">
+        <lane id=":cross13_16_0" index="0" speed="13.89" length="9.23" shape="0.05,1.98 0.78,0.77 3.81,-1.04 8.05,-1.65"/>
+    </edge>
+    <edge id=":cross13_4" function="internal">
+        <lane id=":cross13_4_0" index="0" speed="13.89" length="5.00" shape="8.05,4.95 6.69,5.14 5.73,5.73 5.14,6.69 4.95,8.05"/>
+    </edge>
+    <edge id=":cross13_5" function="internal">
+        <lane id=":cross13_5_0" index="0" speed="13.89" length="16.10" shape="8.05,4.95 -8.05,4.95"/>
+        <lane id=":cross13_5_1" index="1" speed="13.89" length="16.10" shape="8.05,1.65 -8.05,1.65"/>
+    </edge>
+    <edge id=":cross13_7" function="internal">
+        <lane id=":cross13_7_0" index="0" speed="13.89" length="15.64" shape="8.05,1.65 3.81,1.04 0.77,-0.78 -1.04,-3.81 -1.65,-8.05"/>
+    </edge>
+    <edge id=":cross13_8" function="internal">
+        <lane id=":cross13_8_0" index="0" speed="13.89" length="5.00" shape="4.95,-8.05 5.14,-6.69 5.73,-5.73 6.69,-5.14 8.05,-4.95"/>
+    </edge>
+    <edge id=":cross13_9" function="internal">
+        <lane id=":cross13_9_0" index="0" speed="13.89" length="16.10" shape="4.95,-8.05 4.95,8.05"/>
+        <lane id=":cross13_9_1" index="1" speed="13.89" length="16.10" shape="1.65,-8.05 1.65,8.05"/>
+    </edge>
+    <edge id=":cross13_11" function="internal">
+        <lane id=":cross13_11_0" index="0" speed="13.89" length="6.41" shape="1.65,-8.05 1.04,-3.81 -0.05,-1.98"/>
+    </edge>
+    <edge id=":cross13_17" function="internal">
+        <lane id=":cross13_17_0" index="0" speed="13.89" length="9.23" shape="-0.05,-1.98 -0.78,-0.77 -3.81,1.04 -8.05,1.65"/>
+    </edge>
+    <edge id=":cross13_12" function="internal">
+        <lane id=":cross13_12_0" index="0" speed="13.89" length="5.00" shape="-8.05,-4.95 -6.69,-5.14 -5.73,-5.73 -5.14,-6.69 -4.95,-8.05"/>
+    </edge>
+    <edge id=":cross13_13" function="internal">
+        <lane id=":cross13_13_0" index="0" speed="13.89" length="16.10" shape="-8.05,-4.95 8.05,-4.95"/>
+        <lane id=":cross13_13_1" index="1" speed="13.89" length="16.10" shape="-8.05,-1.65 8.05,-1.65"/>
+    </edge>
+    <edge id=":cross13_15" function="internal">
+        <lane id=":cross13_15_0" index="0" speed="13.89" length="15.64" shape="-8.05,-1.65 -3.81,-1.04 -0.77,0.78 1.04,3.81 1.65,8.05"/>
+    </edge>
+    <edge id=":cross14_0" function="internal">
+        <lane id=":cross14_0_0" index="0" speed="13.89" length="5.00" shape="195.05,8.05 194.86,6.69 194.28,5.73 193.31,5.14 191.95,4.95"/>
+    </edge>
+    <edge id=":cross14_1" function="internal">
+        <lane id=":cross14_1_0" index="0" speed="13.89" length="16.10" shape="195.05,8.05 195.05,-8.05"/>
+        <lane id=":cross14_1_1" index="1" speed="13.89" length="16.10" shape="198.35,8.05 198.35,-8.05"/>
+    </edge>
+    <edge id=":cross14_3" function="internal">
+        <lane id=":cross14_3_0" index="0" speed="13.89" length="6.41" shape="198.35,8.05 198.96,3.81 200.05,1.98"/>
+    </edge>
+    <edge id=":cross14_16" function="internal">
+        <lane id=":cross14_16_0" index="0" speed="13.89" length="9.23" shape="200.05,1.98 200.77,0.77 203.81,-1.04 208.05,-1.65"/>
+    </edge>
+    <edge id=":cross14_4" function="internal">
+        <lane id=":cross14_4_0" index="0" speed="13.89" length="5.00" shape="208.05,4.95 206.69,5.14 205.73,5.73 205.14,6.69 204.95,8.05"/>
+    </edge>
+    <edge id=":cross14_5" function="internal">
+        <lane id=":cross14_5_0" index="0" speed="13.89" length="16.10" shape="208.05,4.95 191.95,4.95"/>
+        <lane id=":cross14_5_1" index="1" speed="13.89" length="16.10" shape="208.05,1.65 191.95,1.65"/>
+    </edge>
+    <edge id=":cross14_7" function="internal">
+        <lane id=":cross14_7_0" index="0" speed="13.89" length="15.64" shape="208.05,1.65 203.81,1.04 200.78,-0.78 198.96,-3.81 198.35,-8.05"/>
+    </edge>
+    <edge id=":cross14_8" function="internal">
+        <lane id=":cross14_8_0" index="0" speed="13.89" length="5.00" shape="204.95,-8.05 205.14,-6.69 205.72,-5.73 206.69,-5.14 208.05,-4.95"/>
+    </edge>
+    <edge id=":cross14_9" function="internal">
+        <lane id=":cross14_9_0" index="0" speed="13.89" length="16.10" shape="204.95,-8.05 204.95,8.05"/>
+        <lane id=":cross14_9_1" index="1" speed="13.89" length="16.10" shape="201.65,-8.05 201.65,8.05"/>
+    </edge>
+    <edge id=":cross14_11" function="internal">
+        <lane id=":cross14_11_0" index="0" speed="13.89" length="6.41" shape="201.65,-8.05 201.04,-3.81 199.95,-1.98"/>
+    </edge>
+    <edge id=":cross14_17" function="internal">
+        <lane id=":cross14_17_0" index="0" speed="13.89" length="9.23" shape="199.95,-1.98 199.23,-0.77 196.19,1.04 191.95,1.65"/>
+    </edge>
+    <edge id=":cross14_12" function="internal">
+        <lane id=":cross14_12_0" index="0" speed="13.89" length="5.00" shape="191.95,-4.95 193.31,-5.14 194.27,-5.73 194.86,-6.69 195.05,-8.05"/>
+    </edge>
+    <edge id=":cross14_13" function="internal">
+        <lane id=":cross14_13_0" index="0" speed="13.89" length="16.10" shape="191.95,-4.95 208.05,-4.95"/>
+        <lane id=":cross14_13_1" index="1" speed="13.89" length="16.10" shape="191.95,-1.65 208.05,-1.65"/>
+    </edge>
+    <edge id=":cross14_15" function="internal">
+        <lane id=":cross14_15_0" index="0" speed="13.89" length="15.64" shape="191.95,-1.65 196.19,-1.04 199.22,0.78 201.04,3.81 201.65,8.05"/>
+    </edge>
+    <edge id=":cross15_0" function="internal">
+        <lane id=":cross15_0_0" index="0" speed="13.89" length="5.00" shape="395.05,8.05 394.86,6.69 394.28,5.72 393.31,5.14 391.95,4.95"/>
+    </edge>
+    <edge id=":cross15_1" function="internal">
+        <lane id=":cross15_1_0" index="0" speed="13.89" length="16.10" shape="395.05,8.05 395.05,-8.05"/>
+        <lane id=":cross15_1_1" index="1" speed="13.89" length="16.10" shape="398.35,8.05 398.35,-8.05"/>
+    </edge>
+    <edge id=":cross15_3" function="internal">
+        <lane id=":cross15_3_0" index="0" speed="13.89" length="16.10" shape="404.95,-8.05 404.95,8.05"/>
+        <lane id=":cross15_3_1" index="1" speed="13.89" length="16.10" shape="401.65,-8.05 401.65,8.05"/>
+    </edge>
+    <edge id=":cross15_5" function="internal">
+        <lane id=":cross15_5_0" index="0" speed="13.89" length="6.41" shape="401.65,-8.05 401.04,-3.81 399.95,-1.98"/>
+    </edge>
+    <edge id=":cross15_8" function="internal">
+        <lane id=":cross15_8_0" index="0" speed="13.89" length="9.23" shape="399.95,-1.98 399.22,-0.77 396.19,1.04 391.95,1.65"/>
+    </edge>
+    <edge id=":cross15_6" function="internal">
+        <lane id=":cross15_6_0" index="0" speed="13.89" length="5.00" shape="391.95,-4.95 393.31,-5.14 394.27,-5.73 394.86,-6.69 395.05,-8.05"/>
+    </edge>
+    <edge id=":cross15_7" function="internal">
+        <lane id=":cross15_7_0" index="0" speed="13.89" length="15.64" shape="391.95,-1.65 396.19,-1.04 399.23,0.78 401.04,3.81 401.65,8.05"/>
+    </edge>
+    <edge id=":cross16_0" function="internal">
+        <lane id=":cross16_0_0" index="0" speed="13.89" length="16.10" shape="-404.95,-191.95 -404.95,-208.05"/>
+        <lane id=":cross16_0_1" index="1" speed="13.89" length="16.10" shape="-401.65,-191.95 -401.65,-208.05"/>
+    </edge>
+    <edge id=":cross16_2" function="internal">
+        <lane id=":cross16_2_0" index="0" speed="13.89" length="6.41" shape="-401.65,-191.95 -401.04,-196.19 -399.95,-198.02"/>
+    </edge>
+    <edge id=":cross16_8" function="internal">
+        <lane id=":cross16_8_0" index="0" speed="13.89" length="9.23" shape="-399.95,-198.02 -399.22,-199.22 -396.19,-201.04 -391.95,-201.65"/>
+    </edge>
+    <edge id=":cross16_3" function="internal">
+        <lane id=":cross16_3_0" index="0" speed="13.89" length="5.00" shape="-391.95,-195.05 -393.31,-194.86 -394.27,-194.28 -394.86,-193.31 -395.05,-191.95"/>
+    </edge>
+    <edge id=":cross16_4" function="internal">
+        <lane id=":cross16_4_0" index="0" speed="13.89" length="15.64" shape="-391.95,-198.35 -396.19,-198.96 -399.23,-200.77 -401.04,-203.81 -401.65,-208.05"/>
+    </edge>
+    <edge id=":cross16_5" function="internal">
+        <lane id=":cross16_5_0" index="0" speed="13.89" length="5.00" shape="-395.05,-208.05 -394.86,-206.69 -394.28,-205.73 -393.31,-205.14 -391.95,-204.95"/>
+    </edge>
+    <edge id=":cross16_6" function="internal">
+        <lane id=":cross16_6_0" index="0" speed="13.89" length="16.10" shape="-395.05,-208.05 -395.05,-191.95"/>
+        <lane id=":cross16_6_1" index="1" speed="13.89" length="16.10" shape="-398.35,-208.05 -398.35,-191.95"/>
+    </edge>
+    <edge id=":cross17_0" function="internal">
+        <lane id=":cross17_0_0" index="0" speed="13.89" length="5.00" shape="-204.95,-191.95 -205.14,-193.31 -205.72,-194.27 -206.69,-194.86 -208.05,-195.05"/>
+    </edge>
+    <edge id=":cross17_1" function="internal">
+        <lane id=":cross17_1_0" index="0" speed="13.89" length="16.10" shape="-204.95,-191.95 -204.95,-208.05"/>
+        <lane id=":cross17_1_1" index="1" speed="13.89" length="16.10" shape="-201.65,-191.95 -201.65,-208.05"/>
+    </edge>
+    <edge id=":cross17_3" function="internal">
+        <lane id=":cross17_3_0" index="0" speed="13.89" length="6.41" shape="-201.65,-191.95 -201.04,-196.19 -199.95,-198.02"/>
+    </edge>
+    <edge id=":cross17_16" function="internal">
+        <lane id=":cross17_16_0" index="0" speed="13.89" length="9.23" shape="-199.95,-198.02 -199.23,-199.22 -196.19,-201.04 -191.95,-201.65"/>
+    </edge>
+    <edge id=":cross17_4" function="internal">
+        <lane id=":cross17_4_0" index="0" speed="13.89" length="5.00" shape="-191.95,-195.05 -193.31,-194.86 -194.27,-194.28 -194.86,-193.31 -195.05,-191.95"/>
+    </edge>
+    <edge id=":cross17_5" function="internal">
+        <lane id=":cross17_5_0" index="0" speed="13.89" length="16.10" shape="-191.95,-195.05 -208.05,-195.05"/>
+        <lane id=":cross17_5_1" index="1" speed="13.89" length="16.10" shape="-191.95,-198.35 -208.05,-198.35"/>
+    </edge>
+    <edge id=":cross17_7" function="internal">
+        <lane id=":cross17_7_0" index="0" speed="13.89" length="15.64" shape="-191.95,-198.35 -196.19,-198.96 -199.22,-200.77 -201.04,-203.81 -201.65,-208.05"/>
+    </edge>
+    <edge id=":cross17_8" function="internal">
+        <lane id=":cross17_8_0" index="0" speed="13.89" length="5.00" shape="-195.05,-208.05 -194.86,-206.69 -194.28,-205.73 -193.31,-205.14 -191.95,-204.95"/>
+    </edge>
+    <edge id=":cross17_9" function="internal">
+        <lane id=":cross17_9_0" index="0" speed="13.89" length="16.10" shape="-195.05,-208.05 -195.05,-191.95"/>
+        <lane id=":cross17_9_1" index="1" speed="13.89" length="16.10" shape="-198.35,-208.05 -198.35,-191.95"/>
+    </edge>
+    <edge id=":cross17_11" function="internal">
+        <lane id=":cross17_11_0" index="0" speed="13.89" length="6.41" shape="-198.35,-208.05 -198.96,-203.81 -200.05,-201.98"/>
+    </edge>
+    <edge id=":cross17_17" function="internal">
+        <lane id=":cross17_17_0" index="0" speed="13.89" length="9.23" shape="-200.05,-201.98 -200.77,-200.78 -203.81,-198.96 -208.05,-198.35"/>
+    </edge>
+    <edge id=":cross17_12" function="internal">
+        <lane id=":cross17_12_0" index="0" speed="13.89" length="5.00" shape="-208.05,-204.95 -206.69,-205.14 -205.73,-205.72 -205.14,-206.69 -204.95,-208.05"/>
+    </edge>
+    <edge id=":cross17_13" function="internal">
+        <lane id=":cross17_13_0" index="0" speed="13.89" length="16.10" shape="-208.05,-204.95 -191.95,-204.95"/>
+        <lane id=":cross17_13_1" index="1" speed="13.89" length="16.10" shape="-208.05,-201.65 -191.95,-201.65"/>
+    </edge>
+    <edge id=":cross17_15" function="internal">
+        <lane id=":cross17_15_0" index="0" speed="13.89" length="15.64" shape="-208.05,-201.65 -203.81,-201.04 -200.78,-199.23 -198.96,-196.19 -198.35,-191.95"/>
+    </edge>
+    <edge id=":cross18_0" function="internal">
+        <lane id=":cross18_0_0" index="0" speed="13.89" length="5.00" shape="-4.95,-191.95 -5.14,-193.31 -5.73,-194.27 -6.69,-194.86 -8.05,-195.05"/>
+    </edge>
+    <edge id=":cross18_1" function="internal">
+        <lane id=":cross18_1_0" index="0" speed="13.89" length="16.10" shape="-4.95,-191.95 -4.95,-208.05"/>
+        <lane id=":cross18_1_1" index="1" speed="13.89" length="16.10" shape="-1.65,-191.95 -1.65,-208.05"/>
+    </edge>
+    <edge id=":cross18_3" function="internal">
+        <lane id=":cross18_3_0" index="0" speed="13.89" length="6.41" shape="-1.65,-191.95 -1.04,-196.19 0.05,-198.02"/>
+    </edge>
+    <edge id=":cross18_16" function="internal">
+        <lane id=":cross18_16_0" index="0" speed="13.89" length="9.23" shape="0.05,-198.02 0.78,-199.22 3.81,-201.04 8.05,-201.65"/>
+    </edge>
+    <edge id=":cross18_4" function="internal">
+        <lane id=":cross18_4_0" index="0" speed="13.89" length="5.00" shape="8.05,-195.05 6.69,-194.86 5.73,-194.28 5.14,-193.31 4.95,-191.95"/>
+    </edge>
+    <edge id=":cross18_5" function="internal">
+        <lane id=":cross18_5_0" index="0" speed="13.89" length="16.10" shape="8.05,-195.05 -8.05,-195.05"/>
+        <lane id=":cross18_5_1" index="1" speed="13.89" length="16.10" shape="8.05,-198.35 -8.05,-198.35"/>
+    </edge>
+    <edge id=":cross18_7" function="internal">
+        <lane id=":cross18_7_0" index="0" speed="13.89" length="15.64" shape="8.05,-198.35 3.81,-198.96 0.77,-200.77 -1.04,-203.81 -1.65,-208.05"/>
+    </edge>
+    <edge id=":cross18_8" function="internal">
+        <lane id=":cross18_8_0" index="0" speed="13.89" length="5.00" shape="4.95,-208.05 5.14,-206.69 5.73,-205.73 6.69,-205.14 8.05,-204.95"/>
+    </edge>
+    <edge id=":cross18_9" function="internal">
+        <lane id=":cross18_9_0" index="0" speed="13.89" length="16.10" shape="4.95,-208.05 4.95,-191.95"/>
+        <lane id=":cross18_9_1" index="1" speed="13.89" length="16.10" shape="1.65,-208.05 1.65,-191.95"/>
+    </edge>
+    <edge id=":cross18_11" function="internal">
+        <lane id=":cross18_11_0" index="0" speed="13.89" length="6.41" shape="1.65,-208.05 1.04,-203.81 -0.05,-201.98"/>
+    </edge>
+    <edge id=":cross18_17" function="internal">
+        <lane id=":cross18_17_0" index="0" speed="13.89" length="9.23" shape="-0.05,-201.98 -0.78,-200.78 -3.81,-198.96 -8.05,-198.35"/>
+    </edge>
+    <edge id=":cross18_12" function="internal">
+        <lane id=":cross18_12_0" index="0" speed="13.89" length="5.00" shape="-8.05,-204.95 -6.69,-205.14 -5.73,-205.72 -5.14,-206.69 -4.95,-208.05"/>
+    </edge>
+    <edge id=":cross18_13" function="internal">
+        <lane id=":cross18_13_0" index="0" speed="13.89" length="16.10" shape="-8.05,-204.95 8.05,-204.95"/>
+        <lane id=":cross18_13_1" index="1" speed="13.89" length="16.10" shape="-8.05,-201.65 8.05,-201.65"/>
+    </edge>
+    <edge id=":cross18_15" function="internal">
+        <lane id=":cross18_15_0" index="0" speed="13.89" length="15.64" shape="-8.05,-201.65 -3.81,-201.04 -0.77,-199.23 1.04,-196.19 1.65,-191.95"/>
+    </edge>
+    <edge id=":cross19_0" function="internal">
+        <lane id=":cross19_0_0" index="0" speed="13.89" length="5.00" shape="195.05,-191.95 194.86,-193.31 194.28,-194.27 193.31,-194.86 191.95,-195.05"/>
+    </edge>
+    <edge id=":cross19_1" function="internal">
+        <lane id=":cross19_1_0" index="0" speed="13.89" length="16.10" shape="195.05,-191.95 195.05,-208.05"/>
+        <lane id=":cross19_1_1" index="1" speed="13.89" length="16.10" shape="198.35,-191.95 198.35,-208.05"/>
+    </edge>
+    <edge id=":cross19_3" function="internal">
+        <lane id=":cross19_3_0" index="0" speed="13.89" length="6.41" shape="198.35,-191.95 198.96,-196.19 200.05,-198.02"/>
+    </edge>
+    <edge id=":cross19_16" function="internal">
+        <lane id=":cross19_16_0" index="0" speed="13.89" length="9.23" shape="200.05,-198.02 200.77,-199.22 203.81,-201.04 208.05,-201.65"/>
+    </edge>
+    <edge id=":cross19_4" function="internal">
+        <lane id=":cross19_4_0" index="0" speed="13.89" length="5.00" shape="208.05,-195.05 206.69,-194.86 205.73,-194.28 205.14,-193.31 204.95,-191.95"/>
+    </edge>
+    <edge id=":cross19_5" function="internal">
+        <lane id=":cross19_5_0" index="0" speed="13.89" length="16.10" shape="208.05,-195.05 191.95,-195.05"/>
+        <lane id=":cross19_5_1" index="1" speed="13.89" length="16.10" shape="208.05,-198.35 191.95,-198.35"/>
+    </edge>
+    <edge id=":cross19_7" function="internal">
+        <lane id=":cross19_7_0" index="0" speed="13.89" length="15.64" shape="208.05,-198.35 203.81,-198.96 200.78,-200.77 198.96,-203.81 198.35,-208.05"/>
+    </edge>
+    <edge id=":cross19_8" function="internal">
+        <lane id=":cross19_8_0" index="0" speed="13.89" length="5.00" shape="204.95,-208.05 205.14,-206.69 205.72,-205.73 206.69,-205.14 208.05,-204.95"/>
+    </edge>
+    <edge id=":cross19_9" function="internal">
+        <lane id=":cross19_9_0" index="0" speed="13.89" length="16.10" shape="204.95,-208.05 204.95,-191.95"/>
+        <lane id=":cross19_9_1" index="1" speed="13.89" length="16.10" shape="201.65,-208.05 201.65,-191.95"/>
+    </edge>
+    <edge id=":cross19_11" function="internal">
+        <lane id=":cross19_11_0" index="0" speed="13.89" length="6.41" shape="201.65,-208.05 201.04,-203.81 199.95,-201.98"/>
+    </edge>
+    <edge id=":cross19_17" function="internal">
+        <lane id=":cross19_17_0" index="0" speed="13.89" length="9.23" shape="199.95,-201.98 199.23,-200.78 196.19,-198.96 191.95,-198.35"/>
+    </edge>
+    <edge id=":cross19_12" function="internal">
+        <lane id=":cross19_12_0" index="0" speed="13.89" length="5.00" shape="191.95,-204.95 193.31,-205.14 194.27,-205.72 194.86,-206.69 195.05,-208.05"/>
+    </edge>
+    <edge id=":cross19_13" function="internal">
+        <lane id=":cross19_13_0" index="0" speed="13.89" length="16.10" shape="191.95,-204.95 208.05,-204.95"/>
+        <lane id=":cross19_13_1" index="1" speed="13.89" length="16.10" shape="191.95,-201.65 208.05,-201.65"/>
+    </edge>
+    <edge id=":cross19_15" function="internal">
+        <lane id=":cross19_15_0" index="0" speed="13.89" length="15.64" shape="191.95,-201.65 196.19,-201.04 199.22,-199.23 201.04,-196.19 201.65,-191.95"/>
+    </edge>
+    <edge id=":cross2_0" function="internal">
+        <lane id=":cross2_0_0" index="0" speed="13.89" length="16.10" shape="-191.95,404.95 -208.05,404.95"/>
+        <lane id=":cross2_0_1" index="1" speed="13.89" length="16.10" shape="-191.95,401.65 -208.05,401.65"/>
+    </edge>
+    <edge id=":cross2_2" function="internal">
+        <lane id=":cross2_2_0" index="0" speed="13.89" length="6.41" shape="-191.95,401.65 -196.19,401.04 -198.02,399.95"/>
+    </edge>
+    <edge id=":cross2_8" function="internal">
+        <lane id=":cross2_8_0" index="0" speed="13.89" length="9.23" shape="-198.02,399.95 -199.22,399.22 -201.04,396.19 -201.65,391.95"/>
+    </edge>
+    <edge id=":cross2_3" function="internal">
+        <lane id=":cross2_3_0" index="0" speed="13.89" length="5.00" shape="-195.05,391.95 -194.86,393.31 -194.28,394.27 -193.31,394.86 -191.95,395.05"/>
+    </edge>
+    <edge id=":cross2_4" function="internal">
+        <lane id=":cross2_4_0" index="0" speed="13.89" length="15.64" shape="-198.35,391.95 -198.96,396.19 -200.77,399.23 -203.81,401.04 -208.05,401.65"/>
+    </edge>
+    <edge id=":cross2_5" function="internal">
+        <lane id=":cross2_5_0" index="0" speed="13.89" length="5.00" shape="-208.05,395.05 -206.69,394.86 -205.73,394.28 -205.14,393.31 -204.95,391.95"/>
+    </edge>
+    <edge id=":cross2_6" function="internal">
+        <lane id=":cross2_6_0" index="0" speed="13.89" length="16.10" shape="-208.05,395.05 -191.95,395.05"/>
+        <lane id=":cross2_6_1" index="1" speed="13.89" length="16.10" shape="-208.05,398.35 -191.95,398.35"/>
+    </edge>
+    <edge id=":cross20_0" function="internal">
+        <lane id=":cross20_0_0" index="0" speed="13.89" length="5.00" shape="395.05,-191.95 394.86,-193.31 394.28,-194.27 393.31,-194.86 391.95,-195.05"/>
+    </edge>
+    <edge id=":cross20_1" function="internal">
+        <lane id=":cross20_1_0" index="0" speed="13.89" length="16.10" shape="395.05,-191.95 395.05,-208.05"/>
+        <lane id=":cross20_1_1" index="1" speed="13.89" length="16.10" shape="398.35,-191.95 398.35,-208.05"/>
+    </edge>
+    <edge id=":cross20_3" function="internal">
+        <lane id=":cross20_3_0" index="0" speed="13.89" length="16.10" shape="404.95,-208.05 404.95,-191.95"/>
+        <lane id=":cross20_3_1" index="1" speed="13.89" length="16.10" shape="401.65,-208.05 401.65,-191.95"/>
+    </edge>
+    <edge id=":cross20_5" function="internal">
+        <lane id=":cross20_5_0" index="0" speed="13.89" length="6.41" shape="401.65,-208.05 401.04,-203.81 399.95,-201.98"/>
+    </edge>
+    <edge id=":cross20_8" function="internal">
+        <lane id=":cross20_8_0" index="0" speed="13.89" length="9.23" shape="399.95,-201.98 399.22,-200.78 396.19,-198.96 391.95,-198.35"/>
+    </edge>
+    <edge id=":cross20_6" function="internal">
+        <lane id=":cross20_6_0" index="0" speed="13.89" length="5.00" shape="391.95,-204.95 393.31,-205.14 394.27,-205.72 394.86,-206.69 395.05,-208.05"/>
+    </edge>
+    <edge id=":cross20_7" function="internal">
+        <lane id=":cross20_7_0" index="0" speed="13.89" length="15.64" shape="391.95,-201.65 396.19,-201.04 399.23,-199.23 401.04,-196.19 401.65,-191.95"/>
+    </edge>
+    <edge id=":cross21_0" function="internal">
+        <lane id=":cross21_0_0" index="0" speed="13.89" length="18.55" shape="-404.95,-393.45 -404.23,-398.48 -402.07,-402.07 -398.48,-404.23 -393.45,-404.95"/>
+    </edge>
+    <edge id=":cross21_1" function="internal">
+        <lane id=":cross21_1_0" index="0" speed="13.89" length="13.22" shape="-401.65,-393.45 -401.14,-397.04 -399.60,-399.60 -397.04,-401.14 -393.45,-401.65"/>
+    </edge>
+    <edge id=":cross21_2" function="internal">
+        <lane id=":cross21_2_0" index="0" speed="13.89" length="2.58" shape="-393.45,-395.05 -394.15,-394.95 -394.65,-394.65 -394.95,-394.15 -395.05,-393.45"/>
+    </edge>
+    <edge id=":cross21_3" function="internal">
+        <lane id=":cross21_3_0" index="0" speed="13.89" length="7.90" shape="-393.45,-398.35 -395.59,-398.04 -397.13,-397.13 -398.04,-395.59 -398.35,-393.45"/>
+    </edge>
+    <edge id=":cross22_0" function="internal">
+        <lane id=":cross22_0_0" index="0" speed="13.89" length="5.00" shape="-204.95,-391.95 -205.14,-393.31 -205.72,-394.27 -206.69,-394.86 -208.05,-395.05"/>
+    </edge>
+    <edge id=":cross22_1" function="internal">
+        <lane id=":cross22_1_0" index="0" speed="13.89" length="15.64" shape="-201.65,-391.95 -201.04,-396.19 -199.23,-399.23 -196.19,-401.04 -191.95,-401.65"/>
+    </edge>
+    <edge id=":cross22_2" function="internal">
+        <lane id=":cross22_2_0" index="0" speed="13.89" length="5.00" shape="-191.95,-395.05 -193.31,-394.86 -194.27,-394.28 -194.86,-393.31 -195.05,-391.95"/>
+    </edge>
+    <edge id=":cross22_3" function="internal">
+        <lane id=":cross22_3_0" index="0" speed="13.89" length="16.10" shape="-191.95,-395.05 -208.05,-395.05"/>
+        <lane id=":cross22_3_1" index="1" speed="13.89" length="16.10" shape="-191.95,-398.35 -208.05,-398.35"/>
+    </edge>
+    <edge id=":cross22_5" function="internal">
+        <lane id=":cross22_5_0" index="0" speed="13.89" length="16.10" shape="-208.05,-404.95 -191.95,-404.95"/>
+        <lane id=":cross22_5_1" index="1" speed="13.89" length="16.10" shape="-208.05,-401.65 -191.95,-401.65"/>
+    </edge>
+    <edge id=":cross22_7" function="internal">
+        <lane id=":cross22_7_0" index="0" speed="13.89" length="6.41" shape="-208.05,-401.65 -203.81,-401.04 -201.98,-399.95"/>
+    </edge>
+    <edge id=":cross22_8" function="internal">
+        <lane id=":cross22_8_0" index="0" speed="13.89" length="9.23" shape="-201.98,-399.95 -200.78,-399.22 -198.96,-396.19 -198.35,-391.95"/>
+    </edge>
+    <edge id=":cross23_0" function="internal">
+        <lane id=":cross23_0_0" index="0" speed="13.89" length="5.00" shape="-4.95,-391.95 -5.14,-393.31 -5.73,-394.27 -6.69,-394.86 -8.05,-395.05"/>
+    </edge>
+    <edge id=":cross23_1" function="internal">
+        <lane id=":cross23_1_0" index="0" speed="13.89" length="15.64" shape="-1.65,-391.95 -1.04,-396.19 0.78,-399.23 3.81,-401.04 8.05,-401.65"/>
+    </edge>
+    <edge id=":cross23_2" function="internal">
+        <lane id=":cross23_2_0" index="0" speed="13.89" length="5.00" shape="8.05,-395.05 6.69,-394.86 5.72,-394.28 5.14,-393.31 4.95,-391.95"/>
+    </edge>
+    <edge id=":cross23_3" function="internal">
+        <lane id=":cross23_3_0" index="0" speed="13.89" length="16.10" shape="8.05,-395.05 -8.05,-395.05"/>
+        <lane id=":cross23_3_1" index="1" speed="13.89" length="16.10" shape="8.05,-398.35 -8.05,-398.35"/>
+    </edge>
+    <edge id=":cross23_5" function="internal">
+        <lane id=":cross23_5_0" index="0" speed="13.89" length="16.10" shape="-8.05,-404.95 8.05,-404.95"/>
+        <lane id=":cross23_5_1" index="1" speed="13.89" length="16.10" shape="-8.05,-401.65 8.05,-401.65"/>
+    </edge>
+    <edge id=":cross23_7" function="internal">
+        <lane id=":cross23_7_0" index="0" speed="13.89" length="6.41" shape="-8.05,-401.65 -3.81,-401.04 -1.98,-399.95"/>
+    </edge>
+    <edge id=":cross23_8" function="internal">
+        <lane id=":cross23_8_0" index="0" speed="13.89" length="9.23" shape="-1.98,-399.95 -0.77,-399.22 1.04,-396.19 1.65,-391.95"/>
+    </edge>
+    <edge id=":cross24_0" function="internal">
+        <lane id=":cross24_0_0" index="0" speed="13.89" length="5.00" shape="195.05,-391.95 194.86,-393.31 194.28,-394.27 193.31,-394.86 191.95,-395.05"/>
+    </edge>
+    <edge id=":cross24_1" function="internal">
+        <lane id=":cross24_1_0" index="0" speed="13.89" length="15.64" shape="198.35,-391.95 198.96,-396.19 200.77,-399.23 203.81,-401.04 208.05,-401.65"/>
+    </edge>
+    <edge id=":cross24_2" function="internal">
+        <lane id=":cross24_2_0" index="0" speed="13.89" length="5.00" shape="208.05,-395.05 206.69,-394.86 205.73,-394.28 205.14,-393.31 204.95,-391.95"/>
+    </edge>
+    <edge id=":cross24_3" function="internal">
+        <lane id=":cross24_3_0" index="0" speed="13.89" length="16.10" shape="208.05,-395.05 191.95,-395.05"/>
+        <lane id=":cross24_3_1" index="1" speed="13.89" length="16.10" shape="208.05,-398.35 191.95,-398.35"/>
+    </edge>
+    <edge id=":cross24_5" function="internal">
+        <lane id=":cross24_5_0" index="0" speed="13.89" length="16.10" shape="191.95,-404.95 208.05,-404.95"/>
+        <lane id=":cross24_5_1" index="1" speed="13.89" length="16.10" shape="191.95,-401.65 208.05,-401.65"/>
+    </edge>
+    <edge id=":cross24_7" function="internal">
+        <lane id=":cross24_7_0" index="0" speed="13.89" length="6.41" shape="191.95,-401.65 196.19,-401.04 198.02,-399.95"/>
+    </edge>
+    <edge id=":cross24_8" function="internal">
+        <lane id=":cross24_8_0" index="0" speed="13.89" length="9.23" shape="198.02,-399.95 199.22,-399.22 201.04,-396.19 201.65,-391.95"/>
+    </edge>
+    <edge id=":cross25_0" function="internal">
+        <lane id=":cross25_0_0" index="0" speed="13.89" length="2.58" shape="395.05,-393.45 394.95,-394.15 394.65,-394.65 394.15,-394.95 393.45,-395.05"/>
+    </edge>
+    <edge id=":cross25_1" function="internal">
+        <lane id=":cross25_1_0" index="0" speed="13.89" length="7.90" shape="398.35,-393.45 398.04,-395.59 397.13,-397.13 395.59,-398.04 393.45,-398.35"/>
+    </edge>
+    <edge id=":cross25_2" function="internal">
+        <lane id=":cross25_2_0" index="0" speed="13.89" length="18.55" shape="393.45,-404.95 398.48,-404.23 402.07,-402.07 404.23,-398.48 404.95,-393.45"/>
+    </edge>
+    <edge id=":cross25_3" function="internal">
+        <lane id=":cross25_3_0" index="0" speed="13.89" length="13.22" shape="393.45,-401.65 397.04,-401.14 399.60,-399.60 401.14,-397.04 401.65,-393.45"/>
+    </edge>
+    <edge id=":cross3_0" function="internal">
+        <lane id=":cross3_0_0" index="0" speed="13.89" length="16.10" shape="8.05,404.95 -8.05,404.95"/>
+        <lane id=":cross3_0_1" index="1" speed="13.89" length="16.10" shape="8.05,401.65 -8.05,401.65"/>
+    </edge>
+    <edge id=":cross3_2" function="internal">
+        <lane id=":cross3_2_0" index="0" speed="13.89" length="6.41" shape="8.05,401.65 3.81,401.04 1.98,399.95"/>
+    </edge>
+    <edge id=":cross3_8" function="internal">
+        <lane id=":cross3_8_0" index="0" speed="13.89" length="9.23" shape="1.98,399.95 0.77,399.22 -1.04,396.19 -1.65,391.95"/>
+    </edge>
+    <edge id=":cross3_3" function="internal">
+        <lane id=":cross3_3_0" index="0" speed="13.89" length="5.00" shape="4.95,391.95 5.14,393.31 5.73,394.27 6.69,394.86 8.05,395.05"/>
+    </edge>
+    <edge id=":cross3_4" function="internal">
+        <lane id=":cross3_4_0" index="0" speed="13.89" length="15.64" shape="1.65,391.95 1.04,396.19 -0.78,399.23 -3.81,401.04 -8.05,401.65"/>
+    </edge>
+    <edge id=":cross3_5" function="internal">
+        <lane id=":cross3_5_0" index="0" speed="13.89" length="5.00" shape="-8.05,395.05 -6.69,394.86 -5.72,394.28 -5.14,393.31 -4.95,391.95"/>
+    </edge>
+    <edge id=":cross3_6" function="internal">
+        <lane id=":cross3_6_0" index="0" speed="13.89" length="16.10" shape="-8.05,395.05 8.05,395.05"/>
+        <lane id=":cross3_6_1" index="1" speed="13.89" length="16.10" shape="-8.05,398.35 8.05,398.35"/>
+    </edge>
+    <edge id=":cross4_0" function="internal">
+        <lane id=":cross4_0_0" index="0" speed="13.89" length="16.10" shape="208.05,404.95 191.95,404.95"/>
+        <lane id=":cross4_0_1" index="1" speed="13.89" length="16.10" shape="208.05,401.65 191.95,401.65"/>
+    </edge>
+    <edge id=":cross4_2" function="internal">
+        <lane id=":cross4_2_0" index="0" speed="13.89" length="6.41" shape="208.05,401.65 203.81,401.04 201.98,399.95"/>
+    </edge>
+    <edge id=":cross4_8" function="internal">
+        <lane id=":cross4_8_0" index="0" speed="13.89" length="9.23" shape="201.98,399.95 200.78,399.22 198.96,396.19 198.35,391.95"/>
+    </edge>
+    <edge id=":cross4_3" function="internal">
+        <lane id=":cross4_3_0" index="0" speed="13.89" length="5.00" shape="204.95,391.95 205.14,393.31 205.72,394.27 206.69,394.86 208.05,395.05"/>
+    </edge>
+    <edge id=":cross4_4" function="internal">
+        <lane id=":cross4_4_0" index="0" speed="13.89" length="15.64" shape="201.65,391.95 201.04,396.19 199.23,399.23 196.19,401.04 191.95,401.65"/>
+    </edge>
+    <edge id=":cross4_5" function="internal">
+        <lane id=":cross4_5_0" index="0" speed="13.89" length="5.00" shape="191.95,395.05 193.31,394.86 194.27,394.28 194.86,393.31 195.05,391.95"/>
+    </edge>
+    <edge id=":cross4_6" function="internal">
+        <lane id=":cross4_6_0" index="0" speed="13.89" length="16.10" shape="191.95,395.05 208.05,395.05"/>
+        <lane id=":cross4_6_1" index="1" speed="13.89" length="16.10" shape="191.95,398.35 208.05,398.35"/>
+    </edge>
+    <edge id=":cross5_0" function="internal">
+        <lane id=":cross5_0_0" index="0" speed="13.89" length="18.55" shape="404.95,393.45 404.23,398.48 402.07,402.07 398.48,404.23 393.45,404.95"/>
+    </edge>
+    <edge id=":cross5_1" function="internal">
+        <lane id=":cross5_1_0" index="0" speed="13.89" length="13.22" shape="401.65,393.45 401.14,397.04 399.60,399.60 397.04,401.14 393.45,401.65"/>
+    </edge>
+    <edge id=":cross5_2" function="internal">
+        <lane id=":cross5_2_0" index="0" speed="13.89" length="2.58" shape="393.45,395.05 394.15,394.95 394.65,394.65 394.95,394.15 395.05,393.45"/>
+    </edge>
+    <edge id=":cross5_3" function="internal">
+        <lane id=":cross5_3_0" index="0" speed="13.89" length="7.90" shape="393.45,398.35 395.59,398.04 397.13,397.13 398.04,395.59 398.35,393.45"/>
+    </edge>
+    <edge id=":cross6_0" function="internal">
+        <lane id=":cross6_0_0" index="0" speed="13.89" length="16.10" shape="-404.95,208.05 -404.95,191.95"/>
+        <lane id=":cross6_0_1" index="1" speed="13.89" length="16.10" shape="-401.65,208.05 -401.65,191.95"/>
+    </edge>
+    <edge id=":cross6_2" function="internal">
+        <lane id=":cross6_2_0" index="0" speed="13.89" length="6.41" shape="-401.65,208.05 -401.04,203.81 -399.95,201.98"/>
+    </edge>
+    <edge id=":cross6_8" function="internal">
+        <lane id=":cross6_8_0" index="0" speed="13.89" length="9.23" shape="-399.95,201.98 -399.22,200.78 -396.19,198.96 -391.95,198.35"/>
+    </edge>
+    <edge id=":cross6_3" function="internal">
+        <lane id=":cross6_3_0" index="0" speed="13.89" length="5.00" shape="-391.95,204.95 -393.31,205.14 -394.27,205.72 -394.86,206.69 -395.05,208.05"/>
+    </edge>
+    <edge id=":cross6_4" function="internal">
+        <lane id=":cross6_4_0" index="0" speed="13.89" length="15.64" shape="-391.95,201.65 -396.19,201.04 -399.23,199.23 -401.04,196.19 -401.65,191.95"/>
+    </edge>
+    <edge id=":cross6_5" function="internal">
+        <lane id=":cross6_5_0" index="0" speed="13.89" length="5.00" shape="-395.05,191.95 -394.86,193.31 -394.28,194.27 -393.31,194.86 -391.95,195.05"/>
+    </edge>
+    <edge id=":cross6_6" function="internal">
+        <lane id=":cross6_6_0" index="0" speed="13.89" length="16.10" shape="-395.05,191.95 -395.05,208.05"/>
+        <lane id=":cross6_6_1" index="1" speed="13.89" length="16.10" shape="-398.35,191.95 -398.35,208.05"/>
+    </edge>
+    <edge id=":cross7_0" function="internal">
+        <lane id=":cross7_0_0" index="0" speed="13.89" length="5.00" shape="-204.95,208.05 -205.14,206.69 -205.72,205.73 -206.69,205.14 -208.05,204.95"/>
+    </edge>
+    <edge id=":cross7_1" function="internal">
+        <lane id=":cross7_1_0" index="0" speed="13.89" length="16.10" shape="-204.95,208.05 -204.95,191.95"/>
+        <lane id=":cross7_1_1" index="1" speed="13.89" length="16.10" shape="-201.65,208.05 -201.65,191.95"/>
+    </edge>
+    <edge id=":cross7_3" function="internal">
+        <lane id=":cross7_3_0" index="0" speed="13.89" length="6.41" shape="-201.65,208.05 -201.04,203.81 -199.95,201.98"/>
+    </edge>
+    <edge id=":cross7_16" function="internal">
+        <lane id=":cross7_16_0" index="0" speed="13.89" length="9.23" shape="-199.95,201.98 -199.23,200.78 -196.19,198.96 -191.95,198.35"/>
+    </edge>
+    <edge id=":cross7_4" function="internal">
+        <lane id=":cross7_4_0" index="0" speed="13.89" length="5.00" shape="-191.95,204.95 -193.31,205.14 -194.27,205.72 -194.86,206.69 -195.05,208.05"/>
+    </edge>
+    <edge id=":cross7_5" function="internal">
+        <lane id=":cross7_5_0" index="0" speed="13.89" length="16.10" shape="-191.95,204.95 -208.05,204.95"/>
+        <lane id=":cross7_5_1" index="1" speed="13.89" length="16.10" shape="-191.95,201.65 -208.05,201.65"/>
+    </edge>
+    <edge id=":cross7_7" function="internal">
+        <lane id=":cross7_7_0" index="0" speed="13.89" length="15.64" shape="-191.95,201.65 -196.19,201.04 -199.22,199.23 -201.04,196.19 -201.65,191.95"/>
+    </edge>
+    <edge id=":cross7_8" function="internal">
+        <lane id=":cross7_8_0" index="0" speed="13.89" length="5.00" shape="-195.05,191.95 -194.86,193.31 -194.28,194.27 -193.31,194.86 -191.95,195.05"/>
+    </edge>
+    <edge id=":cross7_9" function="internal">
+        <lane id=":cross7_9_0" index="0" speed="13.89" length="16.10" shape="-195.05,191.95 -195.05,208.05"/>
+        <lane id=":cross7_9_1" index="1" speed="13.89" length="16.10" shape="-198.35,191.95 -198.35,208.05"/>
+    </edge>
+    <edge id=":cross7_11" function="internal">
+        <lane id=":cross7_11_0" index="0" speed="13.89" length="6.41" shape="-198.35,191.95 -198.96,196.19 -200.05,198.02"/>
+    </edge>
+    <edge id=":cross7_17" function="internal">
+        <lane id=":cross7_17_0" index="0" speed="13.89" length="9.23" shape="-200.05,198.02 -200.77,199.22 -203.81,201.04 -208.05,201.65"/>
+    </edge>
+    <edge id=":cross7_12" function="internal">
+        <lane id=":cross7_12_0" index="0" speed="13.89" length="5.00" shape="-208.05,195.05 -206.69,194.86 -205.73,194.28 -205.14,193.31 -204.95,191.95"/>
+    </edge>
+    <edge id=":cross7_13" function="internal">
+        <lane id=":cross7_13_0" index="0" speed="13.89" length="16.10" shape="-208.05,195.05 -191.95,195.05"/>
+        <lane id=":cross7_13_1" index="1" speed="13.89" length="16.10" shape="-208.05,198.35 -191.95,198.35"/>
+    </edge>
+    <edge id=":cross7_15" function="internal">
+        <lane id=":cross7_15_0" index="0" speed="13.89" length="15.64" shape="-208.05,198.35 -203.81,198.96 -200.78,200.77 -198.96,203.81 -198.35,208.05"/>
+    </edge>
+    <edge id=":cross8_0" function="internal">
+        <lane id=":cross8_0_0" index="0" speed="13.89" length="5.00" shape="-4.95,208.05 -5.14,206.69 -5.73,205.73 -6.69,205.14 -8.05,204.95"/>
+    </edge>
+    <edge id=":cross8_1" function="internal">
+        <lane id=":cross8_1_0" index="0" speed="13.89" length="16.10" shape="-4.95,208.05 -4.95,191.95"/>
+        <lane id=":cross8_1_1" index="1" speed="13.89" length="16.10" shape="-1.65,208.05 -1.65,191.95"/>
+    </edge>
+    <edge id=":cross8_3" function="internal">
+        <lane id=":cross8_3_0" index="0" speed="13.89" length="6.41" shape="-1.65,208.05 -1.04,203.81 0.05,201.98"/>
+    </edge>
+    <edge id=":cross8_16" function="internal">
+        <lane id=":cross8_16_0" index="0" speed="13.89" length="9.23" shape="0.05,201.98 0.78,200.78 3.81,198.96 8.05,198.35"/>
+    </edge>
+    <edge id=":cross8_4" function="internal">
+        <lane id=":cross8_4_0" index="0" speed="13.89" length="5.00" shape="8.05,204.95 6.69,205.14 5.73,205.72 5.14,206.69 4.95,208.05"/>
+    </edge>
+    <edge id=":cross8_5" function="internal">
+        <lane id=":cross8_5_0" index="0" speed="13.89" length="16.10" shape="8.05,204.95 -8.05,204.95"/>
+        <lane id=":cross8_5_1" index="1" speed="13.89" length="16.10" shape="8.05,201.65 -8.05,201.65"/>
+    </edge>
+    <edge id=":cross8_7" function="internal">
+        <lane id=":cross8_7_0" index="0" speed="13.89" length="15.64" shape="8.05,201.65 3.81,201.04 0.77,199.23 -1.04,196.19 -1.65,191.95"/>
+    </edge>
+    <edge id=":cross8_8" function="internal">
+        <lane id=":cross8_8_0" index="0" speed="13.89" length="5.00" shape="4.95,191.95 5.14,193.31 5.73,194.27 6.69,194.86 8.05,195.05"/>
+    </edge>
+    <edge id=":cross8_9" function="internal">
+        <lane id=":cross8_9_0" index="0" speed="13.89" length="16.10" shape="4.95,191.95 4.95,208.05"/>
+        <lane id=":cross8_9_1" index="1" speed="13.89" length="16.10" shape="1.65,191.95 1.65,208.05"/>
+    </edge>
+    <edge id=":cross8_11" function="internal">
+        <lane id=":cross8_11_0" index="0" speed="13.89" length="6.41" shape="1.65,191.95 1.04,196.19 -0.05,198.02"/>
+    </edge>
+    <edge id=":cross8_17" function="internal">
+        <lane id=":cross8_17_0" index="0" speed="13.89" length="9.23" shape="-0.05,198.02 -0.78,199.22 -3.81,201.04 -8.05,201.65"/>
+    </edge>
+    <edge id=":cross8_12" function="internal">
+        <lane id=":cross8_12_0" index="0" speed="13.89" length="5.00" shape="-8.05,195.05 -6.69,194.86 -5.73,194.28 -5.14,193.31 -4.95,191.95"/>
+    </edge>
+    <edge id=":cross8_13" function="internal">
+        <lane id=":cross8_13_0" index="0" speed="13.89" length="16.10" shape="-8.05,195.05 8.05,195.05"/>
+        <lane id=":cross8_13_1" index="1" speed="13.89" length="16.10" shape="-8.05,198.35 8.05,198.35"/>
+    </edge>
+    <edge id=":cross8_15" function="internal">
+        <lane id=":cross8_15_0" index="0" speed="13.89" length="15.64" shape="-8.05,198.35 -3.81,198.96 -0.77,200.77 1.04,203.81 1.65,208.05"/>
+    </edge>
+    <edge id=":cross9_0" function="internal">
+        <lane id=":cross9_0_0" index="0" speed="13.89" length="5.00" shape="195.05,208.05 194.86,206.69 194.28,205.73 193.31,205.14 191.95,204.95"/>
+    </edge>
+    <edge id=":cross9_1" function="internal">
+        <lane id=":cross9_1_0" index="0" speed="13.89" length="16.10" shape="195.05,208.05 195.05,191.95"/>
+        <lane id=":cross9_1_1" index="1" speed="13.89" length="16.10" shape="198.35,208.05 198.35,191.95"/>
+    </edge>
+    <edge id=":cross9_3" function="internal">
+        <lane id=":cross9_3_0" index="0" speed="13.89" length="6.41" shape="198.35,208.05 198.96,203.81 200.05,201.98"/>
+    </edge>
+    <edge id=":cross9_16" function="internal">
+        <lane id=":cross9_16_0" index="0" speed="13.89" length="9.23" shape="200.05,201.98 200.77,200.78 203.81,198.96 208.05,198.35"/>
+    </edge>
+    <edge id=":cross9_4" function="internal">
+        <lane id=":cross9_4_0" index="0" speed="13.89" length="5.00" shape="208.05,204.95 206.69,205.14 205.73,205.72 205.14,206.69 204.95,208.05"/>
+    </edge>
+    <edge id=":cross9_5" function="internal">
+        <lane id=":cross9_5_0" index="0" speed="13.89" length="16.10" shape="208.05,204.95 191.95,204.95"/>
+        <lane id=":cross9_5_1" index="1" speed="13.89" length="16.10" shape="208.05,201.65 191.95,201.65"/>
+    </edge>
+    <edge id=":cross9_7" function="internal">
+        <lane id=":cross9_7_0" index="0" speed="13.89" length="15.64" shape="208.05,201.65 203.81,201.04 200.78,199.23 198.96,196.19 198.35,191.95"/>
+    </edge>
+    <edge id=":cross9_8" function="internal">
+        <lane id=":cross9_8_0" index="0" speed="13.89" length="5.00" shape="204.95,191.95 205.14,193.31 205.72,194.27 206.69,194.86 208.05,195.05"/>
+    </edge>
+    <edge id=":cross9_9" function="internal">
+        <lane id=":cross9_9_0" index="0" speed="13.89" length="16.10" shape="204.95,191.95 204.95,208.05"/>
+        <lane id=":cross9_9_1" index="1" speed="13.89" length="16.10" shape="201.65,191.95 201.65,208.05"/>
+    </edge>
+    <edge id=":cross9_11" function="internal">
+        <lane id=":cross9_11_0" index="0" speed="13.89" length="6.41" shape="201.65,191.95 201.04,196.19 199.95,198.02"/>
+    </edge>
+    <edge id=":cross9_17" function="internal">
+        <lane id=":cross9_17_0" index="0" speed="13.89" length="9.23" shape="199.95,198.02 199.23,199.22 196.19,201.04 191.95,201.65"/>
+    </edge>
+    <edge id=":cross9_12" function="internal">
+        <lane id=":cross9_12_0" index="0" speed="13.89" length="5.00" shape="191.95,195.05 193.31,194.86 194.27,194.28 194.86,193.31 195.05,191.95"/>
+    </edge>
+    <edge id=":cross9_13" function="internal">
+        <lane id=":cross9_13_0" index="0" speed="13.89" length="16.10" shape="191.95,195.05 208.05,195.05"/>
+        <lane id=":cross9_13_1" index="1" speed="13.89" length="16.10" shape="191.95,198.35 208.05,198.35"/>
+    </edge>
+    <edge id=":cross9_15" function="internal">
+        <lane id=":cross9_15_0" index="0" speed="13.89" length="15.64" shape="191.95,198.35 196.19,198.96 199.22,200.77 201.04,203.81 201.65,208.05"/>
+    </edge>
+
+    <edge id="gneE0" from="cross7" to="cross8" priority="1">
+        <lane id="gneE0_0" index="0" speed="13.89" length="183.90" shape="-191.95,195.05 -8.05,195.05"/>
+        <lane id="gneE0_1" index="1" speed="13.89" length="183.90" shape="-191.95,198.35 -8.05,198.35"/>
+    </edge>
+    <edge id="gneE1" from="cross8" to="cross7" priority="1">
+        <lane id="gneE1_0" index="0" speed="13.89" length="183.90" shape="-8.05,204.95 -191.95,204.95"/>
+        <lane id="gneE1_1" index="1" speed="13.89" length="183.90" shape="-8.05,201.65 -191.95,201.65"/>
+    </edge>
+    <edge id="gneE10" from="cross13" to="cross12" priority="1">
+        <lane id="gneE10_0" index="0" speed="13.89" length="183.90" shape="-8.05,4.95 -191.95,4.95"/>
+        <lane id="gneE10_1" index="1" speed="13.89" length="183.90" shape="-8.05,1.65 -191.95,1.65"/>
+    </edge>
+    <edge id="gneE11" from="cross12" to="cross13" priority="1">
+        <lane id="gneE11_0" index="0" speed="13.89" length="183.90" shape="-191.95,-4.95 -8.05,-4.95"/>
+        <lane id="gneE11_1" index="1" speed="13.89" length="183.90" shape="-191.95,-1.65 -8.05,-1.65"/>
+    </edge>
+    <edge id="gneE12" from="cross14" to="cross13" priority="1" length="200.00">
+        <lane id="gneE12_0" index="0" speed="13.89" length="200.00" shape="191.95,4.95 8.05,4.95"/>
+        <lane id="gneE12_1" index="1" speed="13.89" length="200.00" shape="191.95,1.65 8.05,1.65"/>
+    </edge>
+    <edge id="gneE13" from="cross13" to="cross14" priority="1" length="200.00">
+        <lane id="gneE13_0" index="0" speed="13.89" length="200.00" shape="8.05,-4.95 191.95,-4.95"/>
+        <lane id="gneE13_1" index="1" speed="13.89" length="200.00" shape="8.05,-1.65 191.95,-1.65"/>
+    </edge>
+    <edge id="gneE14" from="cross15" to="cross14" priority="1" length="200.00">
+        <lane id="gneE14_0" index="0" speed="13.89" length="200.00" shape="391.95,4.95 208.05,4.95"/>
+        <lane id="gneE14_1" index="1" speed="13.89" length="200.00" shape="391.95,1.65 208.05,1.65"/>
+    </edge>
+    <edge id="gneE15" from="cross14" to="cross15" priority="1" length="200.00">
+        <lane id="gneE15_0" index="0" speed="13.89" length="200.00" shape="208.05,-4.95 391.95,-4.95"/>
+        <lane id="gneE15_1" index="1" speed="13.89" length="200.00" shape="208.05,-1.65 391.95,-1.65"/>
+    </edge>
+    <edge id="gneE16" from="cross16" to="cross17" priority="1">
+        <lane id="gneE16_0" index="0" speed="13.89" length="183.90" shape="-391.95,-204.95 -208.05,-204.95"/>
+        <lane id="gneE16_1" index="1" speed="13.89" length="183.90" shape="-391.95,-201.65 -208.05,-201.65"/>
+    </edge>
+    <edge id="gneE17" from="cross18" to="cross19" priority="1">
+        <lane id="gneE17_0" index="0" speed="13.89" length="183.90" shape="8.05,-204.95 191.95,-204.95"/>
+        <lane id="gneE17_1" index="1" speed="13.89" length="183.90" shape="8.05,-201.65 191.95,-201.65"/>
+    </edge>
+    <edge id="gneE18" from="cross20" to="cross19" priority="1">
+        <lane id="gneE18_0" index="0" speed="13.89" length="183.90" shape="391.95,-195.05 208.05,-195.05"/>
+        <lane id="gneE18_1" index="1" speed="13.89" length="183.90" shape="391.95,-198.35 208.05,-198.35"/>
+    </edge>
+    <edge id="gneE19" from="cross19" to="cross20" priority="1">
+        <lane id="gneE19_0" index="0" speed="13.89" length="183.90" shape="208.05,-204.95 391.95,-204.95"/>
+        <lane id="gneE19_1" index="1" speed="13.89" length="183.90" shape="208.05,-201.65 391.95,-201.65"/>
+    </edge>
+    <edge id="gneE2" from="cross8" to="cross9" priority="1">
+        <lane id="gneE2_0" index="0" speed="13.89" length="183.90" shape="8.05,195.05 191.95,195.05"/>
+        <lane id="gneE2_1" index="1" speed="13.89" length="183.90" shape="8.05,198.35 191.95,198.35"/>
+    </edge>
+    <edge id="gneE20" from="cross18" to="cross17" priority="1">
+        <lane id="gneE20_0" index="0" speed="13.89" length="183.90" shape="-8.05,-195.05 -191.95,-195.05"/>
+        <lane id="gneE20_1" index="1" speed="13.89" length="183.90" shape="-8.05,-198.35 -191.95,-198.35"/>
+    </edge>
+    <edge id="gneE22" from="cross17" to="cross16" priority="1">
+        <lane id="gneE22_0" index="0" speed="13.89" length="183.90" shape="-208.05,-195.05 -391.95,-195.05"/>
+        <lane id="gneE22_1" index="1" speed="13.89" length="183.90" shape="-208.05,-198.35 -391.95,-198.35"/>
+    </edge>
+    <edge id="gneE23" from="cross17" to="cross18" priority="1">
+        <lane id="gneE23_0" index="0" speed="13.89" length="183.90" shape="-191.95,-204.95 -8.05,-204.95"/>
+        <lane id="gneE23_1" index="1" speed="13.89" length="183.90" shape="-191.95,-201.65 -8.05,-201.65"/>
+    </edge>
+    <edge id="gneE25" from="cross19" to="cross18" priority="1">
+        <lane id="gneE25_0" index="0" speed="13.89" length="183.90" shape="191.95,-195.05 8.05,-195.05"/>
+        <lane id="gneE25_1" index="1" speed="13.89" length="183.90" shape="191.95,-198.35 8.05,-198.35"/>
+    </edge>
+    <edge id="gneE26" from="cross21" to="cross22" priority="1">
+        <lane id="gneE26_0" index="0" speed="13.89" length="185.40" shape="-393.45,-404.95 -208.05,-404.95"/>
+        <lane id="gneE26_1" index="1" speed="13.89" length="185.40" shape="-393.45,-401.65 -208.05,-401.65"/>
+    </edge>
+    <edge id="gneE27" from="cross22" to="cross23" priority="1">
+        <lane id="gneE27_0" index="0" speed="13.89" length="183.90" shape="-191.95,-404.95 -8.05,-404.95"/>
+        <lane id="gneE27_1" index="1" speed="13.89" length="183.90" shape="-191.95,-401.65 -8.05,-401.65"/>
+    </edge>
+    <edge id="gneE28" from="cross23" to="cross24" priority="1">
+        <lane id="gneE28_0" index="0" speed="13.89" length="183.90" shape="8.05,-404.95 191.95,-404.95"/>
+        <lane id="gneE28_1" index="1" speed="13.89" length="183.90" shape="8.05,-401.65 191.95,-401.65"/>
+    </edge>
+    <edge id="gneE29" from="cross24" to="cross25" priority="1">
+        <lane id="gneE29_0" index="0" speed="13.89" length="185.40" shape="208.05,-404.95 393.45,-404.95"/>
+        <lane id="gneE29_1" index="1" speed="13.89" length="185.40" shape="208.05,-401.65 393.45,-401.65"/>
+    </edge>
+    <edge id="gneE3" from="cross9" to="cross8" priority="1">
+        <lane id="gneE3_0" index="0" speed="13.89" length="183.90" shape="191.95,204.95 8.05,204.95"/>
+        <lane id="gneE3_1" index="1" speed="13.89" length="183.90" shape="191.95,201.65 8.05,201.65"/>
+    </edge>
+    <edge id="gneE30" from="cross25" to="cross24" priority="1">
+        <lane id="gneE30_0" index="0" speed="13.89" length="185.40" shape="393.45,-395.05 208.05,-395.05"/>
+        <lane id="gneE30_1" index="1" speed="13.89" length="185.40" shape="393.45,-398.35 208.05,-398.35"/>
+    </edge>
+    <edge id="gneE32" from="cross24" to="cross23" priority="1">
+        <lane id="gneE32_0" index="0" speed="13.89" length="183.90" shape="191.95,-395.05 8.05,-395.05"/>
+        <lane id="gneE32_1" index="1" speed="13.89" length="183.90" shape="191.95,-398.35 8.05,-398.35"/>
+    </edge>
+    <edge id="gneE33" from="cross23" to="cross22" priority="1">
+        <lane id="gneE33_0" index="0" speed="13.89" length="183.90" shape="-8.05,-395.05 -191.95,-395.05"/>
+        <lane id="gneE33_1" index="1" speed="13.89" length="183.90" shape="-8.05,-398.35 -191.95,-398.35"/>
+    </edge>
+    <edge id="gneE34" from="cross22" to="cross21" priority="1">
+        <lane id="gneE34_0" index="0" speed="13.89" length="185.40" shape="-208.05,-395.05 -393.45,-395.05"/>
+        <lane id="gneE34_1" index="1" speed="13.89" length="185.40" shape="-208.05,-398.35 -393.45,-398.35"/>
+    </edge>
+    <edge id="gneE35" from="cross6" to="cross11" priority="1">
+        <lane id="gneE35_0" index="0" speed="13.89" length="183.90" shape="-404.95,191.95 -404.95,8.05"/>
+        <lane id="gneE35_1" index="1" speed="13.89" length="183.90" shape="-401.65,191.95 -401.65,8.05"/>
+    </edge>
+    <edge id="gneE36" from="cross11" to="cross6" priority="1">
+        <lane id="gneE36_0" index="0" speed="13.89" length="183.90" shape="-395.05,8.05 -395.05,191.95"/>
+        <lane id="gneE36_1" index="1" speed="13.89" length="183.90" shape="-398.35,8.05 -398.35,191.95"/>
+    </edge>
+    <edge id="gneE37" from="cross11" to="cross16" priority="1">
+        <lane id="gneE37_0" index="0" speed="13.89" length="183.90" shape="-404.95,-8.05 -404.95,-191.95"/>
+        <lane id="gneE37_1" index="1" speed="13.89" length="183.90" shape="-401.65,-8.05 -401.65,-191.95"/>
+    </edge>
+    <edge id="gneE38" from="cross16" to="cross11" priority="1">
+        <lane id="gneE38_0" index="0" speed="13.89" length="183.90" shape="-395.05,-191.95 -395.05,-8.05"/>
+        <lane id="gneE38_1" index="1" speed="13.89" length="183.90" shape="-398.35,-191.95 -398.35,-8.05"/>
+    </edge>
+    <edge id="gneE39" from="cross16" to="cross21" priority="1">
+        <lane id="gneE39_0" index="0" speed="13.89" length="185.40" shape="-404.95,-208.05 -404.95,-393.45"/>
+        <lane id="gneE39_1" index="1" speed="13.89" length="185.40" shape="-401.65,-208.05 -401.65,-393.45"/>
+    </edge>
+    <edge id="gneE4" from="cross6" to="cross7" priority="1">
+        <lane id="gneE4_0" index="0" speed="13.89" length="183.90" shape="-391.95,195.05 -208.05,195.05"/>
+        <lane id="gneE4_1" index="1" speed="13.89" length="183.90" shape="-391.95,198.35 -208.05,198.35"/>
+    </edge>
+    <edge id="gneE40" from="cross21" to="cross16" priority="1">
+        <lane id="gneE40_0" index="0" speed="13.89" length="185.40" shape="-395.05,-393.45 -395.05,-208.05"/>
+        <lane id="gneE40_1" index="1" speed="13.89" length="185.40" shape="-398.35,-393.45 -398.35,-208.05"/>
+    </edge>
+    <edge id="gneE41" from="cross7" to="cross12" priority="1">
+        <lane id="gneE41_0" index="0" speed="13.89" length="183.90" shape="-204.95,191.95 -204.95,8.05"/>
+        <lane id="gneE41_1" index="1" speed="13.89" length="183.90" shape="-201.65,191.95 -201.65,8.05"/>
+    </edge>
+    <edge id="gneE42" from="cross12" to="cross7" priority="1">
+        <lane id="gneE42_0" index="0" speed="13.89" length="183.90" shape="-195.05,8.05 -195.05,191.95"/>
+        <lane id="gneE42_1" index="1" speed="13.89" length="183.90" shape="-198.35,8.05 -198.35,191.95"/>
+    </edge>
+    <edge id="gneE43" from="cross12" to="cross17" priority="1">
+        <lane id="gneE43_0" index="0" speed="13.89" length="183.90" shape="-204.95,-8.05 -204.95,-191.95"/>
+        <lane id="gneE43_1" index="1" speed="13.89" length="183.90" shape="-201.65,-8.05 -201.65,-191.95"/>
+    </edge>
+    <edge id="gneE44" from="cross17" to="cross12" priority="1">
+        <lane id="gneE44_0" index="0" speed="13.89" length="183.90" shape="-195.05,-191.95 -195.05,-8.05"/>
+        <lane id="gneE44_1" index="1" speed="13.89" length="183.90" shape="-198.35,-191.95 -198.35,-8.05"/>
+    </edge>
+    <edge id="gneE45" from="cross22" to="cross17" priority="1">
+        <lane id="gneE45_0" index="0" speed="13.89" length="183.90" shape="-195.05,-391.95 -195.05,-208.05"/>
+        <lane id="gneE45_1" index="1" speed="13.89" length="183.90" shape="-198.35,-391.95 -198.35,-208.05"/>
+    </edge>
+    <edge id="gneE46" from="cross17" to="cross22" priority="1">
+        <lane id="gneE46_0" index="0" speed="13.89" length="183.90" shape="-204.95,-208.05 -204.95,-391.95"/>
+        <lane id="gneE46_1" index="1" speed="13.89" length="183.90" shape="-201.65,-208.05 -201.65,-391.95"/>
+    </edge>
+    <edge id="gneE47" from="cross8" to="cross13" priority="1">
+        <lane id="gneE47_0" index="0" speed="13.89" length="183.90" shape="-4.95,191.95 -4.95,8.05"/>
+        <lane id="gneE47_1" index="1" speed="13.89" length="183.90" shape="-1.65,191.95 -1.65,8.05"/>
+    </edge>
+    <edge id="gneE48" from="cross13" to="cross8" priority="1">
+        <lane id="gneE48_0" index="0" speed="13.89" length="183.90" shape="4.95,8.05 4.95,191.95"/>
+        <lane id="gneE48_1" index="1" speed="13.89" length="183.90" shape="1.65,8.05 1.65,191.95"/>
+    </edge>
+    <edge id="gneE49" from="cross18" to="cross13" priority="1">
+        <lane id="gneE49_0" index="0" speed="13.89" length="183.90" shape="4.95,-191.95 4.95,-8.05"/>
+        <lane id="gneE49_1" index="1" speed="13.89" length="183.90" shape="1.65,-191.95 1.65,-8.05"/>
+    </edge>
+    <edge id="gneE5" from="cross7" to="cross6" priority="1">
+        <lane id="gneE5_0" index="0" speed="13.89" length="183.90" shape="-208.05,204.95 -391.95,204.95"/>
+        <lane id="gneE5_1" index="1" speed="13.89" length="183.90" shape="-208.05,201.65 -391.95,201.65"/>
+    </edge>
+    <edge id="gneE50" from="cross18" to="cross23" priority="1">
+        <lane id="gneE50_0" index="0" speed="13.89" length="183.90" shape="-4.95,-208.05 -4.95,-391.95"/>
+        <lane id="gneE50_1" index="1" speed="13.89" length="183.90" shape="-1.65,-208.05 -1.65,-391.95"/>
+    </edge>
+    <edge id="gneE51" from="cross23" to="cross18" priority="1">
+        <lane id="gneE51_0" index="0" speed="13.89" length="183.90" shape="4.95,-391.95 4.95,-208.05"/>
+        <lane id="gneE51_1" index="1" speed="13.89" length="183.90" shape="1.65,-391.95 1.65,-208.05"/>
+    </edge>
+    <edge id="gneE52" from="cross13" to="cross18" priority="1" length="200.00">
+        <lane id="gneE52_0" index="0" speed="13.89" length="200.00" shape="-4.95,-8.05 -4.95,-191.95"/>
+        <lane id="gneE52_1" index="1" speed="13.89" length="200.00" shape="-1.65,-8.05 -1.65,-191.95"/>
+    </edge>
+    <edge id="gneE53" from="cross9" to="cross14" priority="1">
+        <lane id="gneE53_0" index="0" speed="13.89" length="183.90" shape="195.05,191.95 195.05,8.05"/>
+        <lane id="gneE53_1" index="1" speed="13.89" length="183.90" shape="198.35,191.95 198.35,8.05"/>
+    </edge>
+    <edge id="gneE54" from="cross14" to="cross19" priority="1">
+        <lane id="gneE54_0" index="0" speed="13.89" length="183.90" shape="195.05,-8.05 195.05,-191.95"/>
+        <lane id="gneE54_1" index="1" speed="13.89" length="183.90" shape="198.35,-8.05 198.35,-191.95"/>
+    </edge>
+    <edge id="gneE55" from="cross19" to="cross24" priority="1">
+        <lane id="gneE55_0" index="0" speed="13.89" length="183.90" shape="195.05,-208.05 195.05,-391.95"/>
+        <lane id="gneE55_1" index="1" speed="13.89" length="183.90" shape="198.35,-208.05 198.35,-391.95"/>
+    </edge>
+    <edge id="gneE56" from="cross24" to="cross19" priority="1">
+        <lane id="gneE56_0" index="0" speed="13.89" length="183.90" shape="204.95,-391.95 204.95,-208.05"/>
+        <lane id="gneE56_1" index="1" speed="13.89" length="183.90" shape="201.65,-391.95 201.65,-208.05"/>
+    </edge>
+    <edge id="gneE57" from="cross19" to="cross14" priority="1">
+        <lane id="gneE57_0" index="0" speed="13.89" length="183.90" shape="204.95,-191.95 204.95,-8.05"/>
+        <lane id="gneE57_1" index="1" speed="13.89" length="183.90" shape="201.65,-191.95 201.65,-8.05"/>
+    </edge>
+    <edge id="gneE58" from="cross14" to="cross9" priority="1">
+        <lane id="gneE58_0" index="0" speed="13.89" length="183.90" shape="204.95,8.05 204.95,191.95"/>
+        <lane id="gneE58_1" index="1" speed="13.89" length="183.90" shape="201.65,8.05 201.65,191.95"/>
+    </edge>
+    <edge id="gneE59" from="cross10" to="cross15" priority="1">
+        <lane id="gneE59_0" index="0" speed="13.89" length="183.90" shape="395.05,191.95 395.05,8.05"/>
+        <lane id="gneE59_1" index="1" speed="13.89" length="183.90" shape="398.35,191.95 398.35,8.05"/>
+    </edge>
+    <edge id="gneE6" from="cross9" to="cross10" priority="1">
+        <lane id="gneE6_0" index="0" speed="13.89" length="183.90" shape="208.05,195.05 391.95,195.05"/>
+        <lane id="gneE6_1" index="1" speed="13.89" length="183.90" shape="208.05,198.35 391.95,198.35"/>
+    </edge>
+    <edge id="gneE60" from="cross15" to="cross10" priority="1">
+        <lane id="gneE60_0" index="0" speed="13.89" length="183.90" shape="404.95,8.05 404.95,191.95"/>
+        <lane id="gneE60_1" index="1" speed="13.89" length="183.90" shape="401.65,8.05 401.65,191.95"/>
+    </edge>
+    <edge id="gneE61" from="cross15" to="cross20" priority="1">
+        <lane id="gneE61_0" index="0" speed="13.89" length="183.90" shape="395.05,-8.05 395.05,-191.95"/>
+        <lane id="gneE61_1" index="1" speed="13.89" length="183.90" shape="398.35,-8.05 398.35,-191.95"/>
+    </edge>
+    <edge id="gneE62" from="cross20" to="cross15" priority="1">
+        <lane id="gneE62_0" index="0" speed="13.89" length="183.90" shape="404.95,-191.95 404.95,-8.05"/>
+        <lane id="gneE62_1" index="1" speed="13.89" length="183.90" shape="401.65,-191.95 401.65,-8.05"/>
+    </edge>
+    <edge id="gneE63" from="cross20" to="cross25" priority="1">
+        <lane id="gneE63_0" index="0" speed="13.89" length="185.40" shape="395.05,-208.05 395.05,-393.45"/>
+        <lane id="gneE63_1" index="1" speed="13.89" length="185.40" shape="398.35,-208.05 398.35,-393.45"/>
+    </edge>
+    <edge id="gneE64" from="cross25" to="cross20" priority="1">
+        <lane id="gneE64_0" index="0" speed="13.89" length="185.40" shape="404.95,-393.45 404.95,-208.05"/>
+        <lane id="gneE64_1" index="1" speed="13.89" length="185.40" shape="401.65,-393.45 401.65,-208.05"/>
+    </edge>
+    <edge id="gneE65" from="cross1" to="cross2" priority="1">
+        <lane id="gneE65_0" index="0" speed="13.89" length="185.40" shape="-393.45,395.05 -208.05,395.05"/>
+        <lane id="gneE65_1" index="1" speed="13.89" length="185.40" shape="-393.45,398.35 -208.05,398.35"/>
+    </edge>
+    <edge id="gneE66" from="cross2" to="cross3" priority="1">
+        <lane id="gneE66_0" index="0" speed="13.89" length="183.90" shape="-191.95,395.05 -8.05,395.05"/>
+        <lane id="gneE66_1" index="1" speed="13.89" length="183.90" shape="-191.95,398.35 -8.05,398.35"/>
+    </edge>
+    <edge id="gneE67" from="cross3" to="cross4" priority="1">
+        <lane id="gneE67_0" index="0" speed="13.89" length="183.90" shape="8.05,395.05 191.95,395.05"/>
+        <lane id="gneE67_1" index="1" speed="13.89" length="183.90" shape="8.05,398.35 191.95,398.35"/>
+    </edge>
+    <edge id="gneE68" from="cross4" to="cross5" priority="1">
+        <lane id="gneE68_0" index="0" speed="13.89" length="185.40" shape="208.05,395.05 393.45,395.05"/>
+        <lane id="gneE68_1" index="1" speed="13.89" length="185.40" shape="208.05,398.35 393.45,398.35"/>
+    </edge>
+    <edge id="gneE69" from="cross5" to="cross4" priority="1">
+        <lane id="gneE69_0" index="0" speed="13.89" length="185.40" shape="393.45,404.95 208.05,404.95"/>
+        <lane id="gneE69_1" index="1" speed="13.89" length="185.40" shape="393.45,401.65 208.05,401.65"/>
+    </edge>
+    <edge id="gneE7" from="cross10" to="cross9" priority="1">
+        <lane id="gneE7_0" index="0" speed="13.89" length="183.90" shape="391.95,204.95 208.05,204.95"/>
+        <lane id="gneE7_1" index="1" speed="13.89" length="183.90" shape="391.95,201.65 208.05,201.65"/>
+    </edge>
+    <edge id="gneE70" from="cross4" to="cross3" priority="1">
+        <lane id="gneE70_0" index="0" speed="13.89" length="183.90" shape="191.95,404.95 8.05,404.95"/>
+        <lane id="gneE70_1" index="1" speed="13.89" length="183.90" shape="191.95,401.65 8.05,401.65"/>
+    </edge>
+    <edge id="gneE71" from="cross3" to="cross2" priority="1">
+        <lane id="gneE71_0" index="0" speed="13.89" length="183.90" shape="-8.05,404.95 -191.95,404.95"/>
+        <lane id="gneE71_1" index="1" speed="13.89" length="183.90" shape="-8.05,401.65 -191.95,401.65"/>
+    </edge>
+    <edge id="gneE72" from="cross2" to="cross1" priority="1">
+        <lane id="gneE72_0" index="0" speed="13.89" length="185.40" shape="-208.05,404.95 -393.45,404.95"/>
+        <lane id="gneE72_1" index="1" speed="13.89" length="185.40" shape="-208.05,401.65 -393.45,401.65"/>
+    </edge>
+    <edge id="gneE73" from="cross1" to="cross6" priority="1">
+        <lane id="gneE73_0" index="0" speed="13.89" length="185.40" shape="-404.95,393.45 -404.95,208.05"/>
+        <lane id="gneE73_1" index="1" speed="13.89" length="185.40" shape="-401.65,393.45 -401.65,208.05"/>
+    </edge>
+    <edge id="gneE74" from="cross6" to="cross1" priority="1">
+        <lane id="gneE74_0" index="0" speed="13.89" length="185.40" shape="-395.05,208.05 -395.05,393.45"/>
+        <lane id="gneE74_1" index="1" speed="13.89" length="185.40" shape="-398.35,208.05 -398.35,393.45"/>
+    </edge>
+    <edge id="gneE75" from="cross2" to="cross7" priority="1">
+        <lane id="gneE75_0" index="0" speed="13.89" length="183.90" shape="-204.95,391.95 -204.95,208.05"/>
+        <lane id="gneE75_1" index="1" speed="13.89" length="183.90" shape="-201.65,391.95 -201.65,208.05"/>
+    </edge>
+    <edge id="gneE76" from="cross7" to="cross2" priority="1">
+        <lane id="gneE76_0" index="0" speed="13.89" length="183.90" shape="-195.05,208.05 -195.05,391.95"/>
+        <lane id="gneE76_1" index="1" speed="13.89" length="183.90" shape="-198.35,208.05 -198.35,391.95"/>
+    </edge>
+    <edge id="gneE77" from="cross3" to="cross8" priority="1">
+        <lane id="gneE77_0" index="0" speed="13.89" length="183.90" shape="-4.95,391.95 -4.95,208.05"/>
+        <lane id="gneE77_1" index="1" speed="13.89" length="183.90" shape="-1.65,391.95 -1.65,208.05"/>
+    </edge>
+    <edge id="gneE78" from="cross8" to="cross3" priority="1">
+        <lane id="gneE78_0" index="0" speed="13.89" length="183.90" shape="4.95,208.05 4.95,391.95"/>
+        <lane id="gneE78_1" index="1" speed="13.89" length="183.90" shape="1.65,208.05 1.65,391.95"/>
+    </edge>
+    <edge id="gneE79" from="cross4" to="cross9" priority="1">
+        <lane id="gneE79_0" index="0" speed="13.89" length="183.90" shape="195.05,391.95 195.05,208.05"/>
+        <lane id="gneE79_1" index="1" speed="13.89" length="183.90" shape="198.35,391.95 198.35,208.05"/>
+    </edge>
+    <edge id="gneE8" from="cross11" to="cross12" priority="1">
+        <lane id="gneE8_0" index="0" speed="13.89" length="183.90" shape="-391.95,-4.95 -208.05,-4.95"/>
+        <lane id="gneE8_1" index="1" speed="13.89" length="183.90" shape="-391.95,-1.65 -208.05,-1.65"/>
+    </edge>
+    <edge id="gneE80" from="cross9" to="cross4" priority="1">
+        <lane id="gneE80_0" index="0" speed="13.89" length="183.90" shape="204.95,208.05 204.95,391.95"/>
+        <lane id="gneE80_1" index="1" speed="13.89" length="183.90" shape="201.65,208.05 201.65,391.95"/>
+    </edge>
+    <edge id="gneE81" from="cross5" to="cross10" priority="1">
+        <lane id="gneE81_0" index="0" speed="13.89" length="185.40" shape="395.05,393.45 395.05,208.05"/>
+        <lane id="gneE81_1" index="1" speed="13.89" length="185.40" shape="398.35,393.45 398.35,208.05"/>
+    </edge>
+    <edge id="gneE82" from="cross10" to="cross5" priority="1">
+        <lane id="gneE82_0" index="0" speed="13.89" length="185.40" shape="404.95,208.05 404.95,393.45"/>
+        <lane id="gneE82_1" index="1" speed="13.89" length="185.40" shape="401.65,208.05 401.65,393.45"/>
+    </edge>
+    <edge id="gneE9" from="cross12" to="cross11" priority="1">
+        <lane id="gneE9_0" index="0" speed="13.89" length="183.90" shape="-208.05,4.95 -391.95,4.95"/>
+        <lane id="gneE9_1" index="1" speed="13.89" length="183.90" shape="-208.05,1.65 -391.95,1.65"/>
+    </edge>
+
+    <junction id="cross1" type="priority" x="-400.00" y="400.00" incLanes="gneE72_0 gneE72_1 gneE74_0 gneE74_1" intLanes=":cross1_0_0 :cross1_1_0 :cross1_2_0 :cross1_3_0" shape="-393.45,406.55 -393.45,393.45 -406.55,393.45">
+        <request index="0" response="0000" foes="0000" cont="0"/>
+        <request index="1" response="0000" foes="0000" cont="0"/>
+        <request index="2" response="0000" foes="0000" cont="0"/>
+        <request index="3" response="0000" foes="0000" cont="0"/>
+    </junction>
+    <junction id="cross10" type="priority" x="400.00" y="200.00" incLanes="gneE81_0 gneE81_1 gneE60_0 gneE60_1 gneE6_0 gneE6_1" intLanes=":cross10_0_0 :cross10_1_0 :cross10_1_1 :cross10_3_0 :cross10_3_1 :cross10_8_0 :cross10_6_0 :cross10_7_0" shape="393.45,208.05 406.55,208.05 406.55,191.95 393.45,191.95 391.95,193.45 391.95,206.55">
+        <request index="0" response="00000000" foes="00000000" cont="0"/>
+        <request index="1" response="00000000" foes="11100000" cont="0"/>
+        <request index="2" response="00000000" foes="11100000" cont="0"/>
+        <request index="3" response="00000000" foes="10000000" cont="0"/>
+        <request index="4" response="00000000" foes="10000000" cont="0"/>
+        <request index="5" response="00000110" foes="10000110" cont="1"/>
+        <request index="6" response="00000110" foes="00000110" cont="0"/>
+        <request index="7" response="00111110" foes="00111110" cont="0"/>
+    </junction>
+    <junction id="cross11" type="priority" x="-400.00" y="0.00" incLanes="gneE35_0 gneE35_1 gneE9_0 gneE9_1 gneE38_0 gneE38_1" intLanes=":cross11_0_0 :cross11_0_1 :cross11_8_0 :cross11_3_0 :cross11_4_0 :cross11_5_0 :cross11_6_0 :cross11_6_1" shape="-406.55,8.05 -393.45,8.05 -391.95,6.55 -391.95,-6.55 -393.45,-8.05 -406.55,-8.05">
+        <request index="0" response="00000000" foes="00010000" cont="0"/>
+        <request index="1" response="00000000" foes="00010000" cont="0"/>
+        <request index="2" response="11000000" foes="11010000" cont="1"/>
+        <request index="3" response="11000000" foes="11000000" cont="0"/>
+        <request index="4" response="11000111" foes="11000111" cont="0"/>
+        <request index="5" response="00000000" foes="00000000" cont="0"/>
+        <request index="6" response="00000000" foes="00011100" cont="0"/>
+        <request index="7" response="00000000" foes="00011100" cont="0"/>
+    </junction>
+    <junction id="cross12" type="priority" x="-200.00" y="0.00" incLanes="gneE41_0 gneE41_1 gneE10_0 gneE10_1 gneE44_0 gneE44_1 gneE8_0 gneE8_1" intLanes=":cross12_0_0 :cross12_1_0 :cross12_1_1 :cross12_16_0 :cross12_4_0 :cross12_5_0 :cross12_5_1 :cross12_7_0 :cross12_8_0 :cross12_9_0 :cross12_9_1 :cross12_17_0 :cross12_12_0 :cross12_13_0 :cross12_13_1 :cross12_15_0" shape="-206.55,8.05 -193.45,8.05 -191.95,6.55 -191.95,-6.55 -193.45,-8.05 -206.55,-8.05 -208.05,-6.55 -208.05,6.55">
+        <request index="0" response="0000000000000000" foes="0000100001100000" cont="0"/>
+        <request index="1" response="0000000000000000" foes="1111100011100000" cont="0"/>
+        <request index="2" response="0000000000000000" foes="1111100011100000" cont="0"/>
+        <request index="3" response="0000011100000000" foes="1110011111100000" cont="1"/>
+        <request index="4" response="0000011000000000" foes="1000011000000000" cont="0"/>
+        <request index="5" response="0000111000001111" foes="1000111000001111" cont="0"/>
+        <request index="6" response="0000111000001111" foes="1000111000001111" cont="0"/>
+        <request index="7" response="0111111000001110" foes="0111111000001110" cont="0"/>
+        <request index="8" response="0000000000000000" foes="0110000000001000" cont="0"/>
+        <request index="9" response="0000000000000000" foes="1110000011111000" cont="0"/>
+        <request index="10" response="0000000000000000" foes="1110000011111000" cont="0"/>
+        <request index="11" response="0000000000000111" foes="1110000011100111" cont="1"/>
+        <request index="12" response="0000000000000110" foes="0000000010000110" cont="0"/>
+        <request index="13" response="0000111100001110" foes="0000111110001110" cont="0"/>
+        <request index="14" response="0000111100001110" foes="0000111110001110" cont="0"/>
+        <request index="15" response="0000111001111110" foes="0000111001111110" cont="0"/>
+    </junction>
+    <junction id="cross13" type="priority" x="0.00" y="0.00" incLanes="gneE47_0 gneE47_1 gneE12_0 gneE12_1 gneE49_0 gneE49_1 gneE11_0 gneE11_1" intLanes=":cross13_0_0 :cross13_1_0 :cross13_1_1 :cross13_16_0 :cross13_4_0 :cross13_5_0 :cross13_5_1 :cross13_7_0 :cross13_8_0 :cross13_9_0 :cross13_9_1 :cross13_17_0 :cross13_12_0 :cross13_13_0 :cross13_13_1 :cross13_15_0" shape="-6.55,8.05 6.55,8.05 8.05,6.55 8.05,-6.55 6.55,-8.05 -6.55,-8.05 -8.05,-6.55 -8.05,6.55">
+        <request index="0" response="0000000000000000" foes="0000100001100000" cont="0"/>
+        <request index="1" response="0000000000000000" foes="1111100011100000" cont="0"/>
+        <request index="2" response="0000000000000000" foes="1111100011100000" cont="0"/>
+        <request index="3" response="0000011100000000" foes="1110011111100000" cont="1"/>
+        <request index="4" response="0000011000000000" foes="1000011000000000" cont="0"/>
+        <request index="5" response="0000111000001111" foes="1000111000001111" cont="0"/>
+        <request index="6" response="0000111000001111" foes="1000111000001111" cont="0"/>
+        <request index="7" response="0111111000001110" foes="0111111000001110" cont="0"/>
+        <request index="8" response="0000000000000000" foes="0110000000001000" cont="0"/>
+        <request index="9" response="0000000000000000" foes="1110000011111000" cont="0"/>
+        <request index="10" response="0000000000000000" foes="1110000011111000" cont="0"/>
+        <request index="11" response="0000000000000111" foes="1110000011100111" cont="1"/>
+        <request index="12" response="0000000000000110" foes="0000000010000110" cont="0"/>
+        <request index="13" response="0000111100001110" foes="0000111110001110" cont="0"/>
+        <request index="14" response="0000111100001110" foes="0000111110001110" cont="0"/>
+        <request index="15" response="0000111001111110" foes="0000111001111110" cont="0"/>
+    </junction>
+    <junction id="cross14" type="priority" x="200.00" y="0.00" incLanes="gneE53_0 gneE53_1 gneE14_0 gneE14_1 gneE57_0 gneE57_1 gneE13_0 gneE13_1" intLanes=":cross14_0_0 :cross14_1_0 :cross14_1_1 :cross14_16_0 :cross14_4_0 :cross14_5_0 :cross14_5_1 :cross14_7_0 :cross14_8_0 :cross14_9_0 :cross14_9_1 :cross14_17_0 :cross14_12_0 :cross14_13_0 :cross14_13_1 :cross14_15_0" shape="193.45,8.05 206.55,8.05 208.05,6.55 208.05,-6.55 206.55,-8.05 193.45,-8.05 191.95,-6.55 191.95,6.55">
+        <request index="0" response="0000000000000000" foes="0000100001100000" cont="0"/>
+        <request index="1" response="0000000000000000" foes="1111100011100000" cont="0"/>
+        <request index="2" response="0000000000000000" foes="1111100011100000" cont="0"/>
+        <request index="3" response="0000011100000000" foes="1110011111100000" cont="1"/>
+        <request index="4" response="0000011000000000" foes="1000011000000000" cont="0"/>
+        <request index="5" response="0000111000001111" foes="1000111000001111" cont="0"/>
+        <request index="6" response="0000111000001111" foes="1000111000001111" cont="0"/>
+        <request index="7" response="0111111000001110" foes="0111111000001110" cont="0"/>
+        <request index="8" response="0000000000000000" foes="0110000000001000" cont="0"/>
+        <request index="9" response="0000000000000000" foes="1110000011111000" cont="0"/>
+        <request index="10" response="0000000000000000" foes="1110000011111000" cont="0"/>
+        <request index="11" response="0000000000000111" foes="1110000011100111" cont="1"/>
+        <request index="12" response="0000000000000110" foes="0000000010000110" cont="0"/>
+        <request index="13" response="0000111100001110" foes="0000111110001110" cont="0"/>
+        <request index="14" response="0000111100001110" foes="0000111110001110" cont="0"/>
+        <request index="15" response="0000111001111110" foes="0000111001111110" cont="0"/>
+    </junction>
+    <junction id="cross15" type="priority" x="400.00" y="0.00" incLanes="gneE59_0 gneE59_1 gneE62_0 gneE62_1 gneE15_0 gneE15_1" intLanes=":cross15_0_0 :cross15_1_0 :cross15_1_1 :cross15_3_0 :cross15_3_1 :cross15_8_0 :cross15_6_0 :cross15_7_0" shape="393.45,8.05 406.55,8.05 406.55,-8.05 393.45,-8.05 391.95,-6.55 391.95,6.55">
+        <request index="0" response="00000000" foes="00000000" cont="0"/>
+        <request index="1" response="00000000" foes="11100000" cont="0"/>
+        <request index="2" response="00000000" foes="11100000" cont="0"/>
+        <request index="3" response="00000000" foes="10000000" cont="0"/>
+        <request index="4" response="00000000" foes="10000000" cont="0"/>
+        <request index="5" response="00000110" foes="10000110" cont="1"/>
+        <request index="6" response="00000110" foes="00000110" cont="0"/>
+        <request index="7" response="00111110" foes="00111110" cont="0"/>
+    </junction>
+    <junction id="cross16" type="priority" x="-400.00" y="-200.00" incLanes="gneE37_0 gneE37_1 gneE22_0 gneE22_1 gneE40_0 gneE40_1" intLanes=":cross16_0_0 :cross16_0_1 :cross16_8_0 :cross16_3_0 :cross16_4_0 :cross16_5_0 :cross16_6_0 :cross16_6_1" shape="-406.55,-191.95 -393.45,-191.95 -391.95,-193.45 -391.95,-206.55 -393.45,-208.05 -406.55,-208.05">
+        <request index="0" response="00000000" foes="00010000" cont="0"/>
+        <request index="1" response="00000000" foes="00010000" cont="0"/>
+        <request index="2" response="11000000" foes="11010000" cont="1"/>
+        <request index="3" response="11000000" foes="11000000" cont="0"/>
+        <request index="4" response="11000111" foes="11000111" cont="0"/>
+        <request index="5" response="00000000" foes="00000000" cont="0"/>
+        <request index="6" response="00000000" foes="00011100" cont="0"/>
+        <request index="7" response="00000000" foes="00011100" cont="0"/>
+    </junction>
+    <junction id="cross17" type="priority" x="-200.00" y="-200.00" incLanes="gneE43_0 gneE43_1 gneE20_0 gneE20_1 gneE45_0 gneE45_1 gneE16_0 gneE16_1" intLanes=":cross17_0_0 :cross17_1_0 :cross17_1_1 :cross17_16_0 :cross17_4_0 :cross17_5_0 :cross17_5_1 :cross17_7_0 :cross17_8_0 :cross17_9_0 :cross17_9_1 :cross17_17_0 :cross17_12_0 :cross17_13_0 :cross17_13_1 :cross17_15_0" shape="-206.55,-191.95 -193.45,-191.95 -191.95,-193.45 -191.95,-206.55 -193.45,-208.05 -206.55,-208.05 -208.05,-206.55 -208.05,-193.45">
+        <request index="0" response="0000000000000000" foes="0000100001100000" cont="0"/>
+        <request index="1" response="0000000000000000" foes="1111100011100000" cont="0"/>
+        <request index="2" response="0000000000000000" foes="1111100011100000" cont="0"/>
+        <request index="3" response="0000011100000000" foes="1110011111100000" cont="1"/>
+        <request index="4" response="0000011000000000" foes="1000011000000000" cont="0"/>
+        <request index="5" response="0000111000001111" foes="1000111000001111" cont="0"/>
+        <request index="6" response="0000111000001111" foes="1000111000001111" cont="0"/>
+        <request index="7" response="0111111000001110" foes="0111111000001110" cont="0"/>
+        <request index="8" response="0000000000000000" foes="0110000000001000" cont="0"/>
+        <request index="9" response="0000000000000000" foes="1110000011111000" cont="0"/>
+        <request index="10" response="0000000000000000" foes="1110000011111000" cont="0"/>
+        <request index="11" response="0000000000000111" foes="1110000011100111" cont="1"/>
+        <request index="12" response="0000000000000110" foes="0000000010000110" cont="0"/>
+        <request index="13" response="0000111100001110" foes="0000111110001110" cont="0"/>
+        <request index="14" response="0000111100001110" foes="0000111110001110" cont="0"/>
+        <request index="15" response="0000111001111110" foes="0000111001111110" cont="0"/>
+    </junction>
+    <junction id="cross18" type="priority" x="0.00" y="-200.00" incLanes="gneE52_0 gneE52_1 gneE25_0 gneE25_1 gneE51_0 gneE51_1 gneE23_0 gneE23_1" intLanes=":cross18_0_0 :cross18_1_0 :cross18_1_1 :cross18_16_0 :cross18_4_0 :cross18_5_0 :cross18_5_1 :cross18_7_0 :cross18_8_0 :cross18_9_0 :cross18_9_1 :cross18_17_0 :cross18_12_0 :cross18_13_0 :cross18_13_1 :cross18_15_0" shape="-6.55,-191.95 6.55,-191.95 8.05,-193.45 8.05,-206.55 6.55,-208.05 -6.55,-208.05 -8.05,-206.55 -8.05,-193.45">
+        <request index="0" response="0000000000000000" foes="0000100001100000" cont="0"/>
+        <request index="1" response="0000000000000000" foes="1111100011100000" cont="0"/>
+        <request index="2" response="0000000000000000" foes="1111100011100000" cont="0"/>
+        <request index="3" response="0000011100000000" foes="1110011111100000" cont="1"/>
+        <request index="4" response="0000011000000000" foes="1000011000000000" cont="0"/>
+        <request index="5" response="0000111000001111" foes="1000111000001111" cont="0"/>
+        <request index="6" response="0000111000001111" foes="1000111000001111" cont="0"/>
+        <request index="7" response="0111111000001110" foes="0111111000001110" cont="0"/>
+        <request index="8" response="0000000000000000" foes="0110000000001000" cont="0"/>
+        <request index="9" response="0000000000000000" foes="1110000011111000" cont="0"/>
+        <request index="10" response="0000000000000000" foes="1110000011111000" cont="0"/>
+        <request index="11" response="0000000000000111" foes="1110000011100111" cont="1"/>
+        <request index="12" response="0000000000000110" foes="0000000010000110" cont="0"/>
+        <request index="13" response="0000111100001110" foes="0000111110001110" cont="0"/>
+        <request index="14" response="0000111100001110" foes="0000111110001110" cont="0"/>
+        <request index="15" response="0000111001111110" foes="0000111001111110" cont="0"/>
+    </junction>
+    <junction id="cross19" type="priority" x="200.00" y="-200.00" incLanes="gneE54_0 gneE54_1 gneE18_0 gneE18_1 gneE56_0 gneE56_1 gneE17_0 gneE17_1" intLanes=":cross19_0_0 :cross19_1_0 :cross19_1_1 :cross19_16_0 :cross19_4_0 :cross19_5_0 :cross19_5_1 :cross19_7_0 :cross19_8_0 :cross19_9_0 :cross19_9_1 :cross19_17_0 :cross19_12_0 :cross19_13_0 :cross19_13_1 :cross19_15_0" shape="193.45,-191.95 206.55,-191.95 208.05,-193.45 208.05,-206.55 206.55,-208.05 193.45,-208.05 191.95,-206.55 191.95,-193.45">
+        <request index="0" response="0000000000000000" foes="0000100001100000" cont="0"/>
+        <request index="1" response="0000000000000000" foes="1111100011100000" cont="0"/>
+        <request index="2" response="0000000000000000" foes="1111100011100000" cont="0"/>
+        <request index="3" response="0000011100000000" foes="1110011111100000" cont="1"/>
+        <request index="4" response="0000011000000000" foes="1000011000000000" cont="0"/>
+        <request index="5" response="0000111000001111" foes="1000111000001111" cont="0"/>
+        <request index="6" response="0000111000001111" foes="1000111000001111" cont="0"/>
+        <request index="7" response="0111111000001110" foes="0111111000001110" cont="0"/>
+        <request index="8" response="0000000000000000" foes="0110000000001000" cont="0"/>
+        <request index="9" response="0000000000000000" foes="1110000011111000" cont="0"/>
+        <request index="10" response="0000000000000000" foes="1110000011111000" cont="0"/>
+        <request index="11" response="0000000000000111" foes="1110000011100111" cont="1"/>
+        <request index="12" response="0000000000000110" foes="0000000010000110" cont="0"/>
+        <request index="13" response="0000111100001110" foes="0000111110001110" cont="0"/>
+        <request index="14" response="0000111100001110" foes="0000111110001110" cont="0"/>
+        <request index="15" response="0000111001111110" foes="0000111001111110" cont="0"/>
+    </junction>
+    <junction id="cross2" type="priority" x="-200.00" y="400.00" incLanes="gneE71_0 gneE71_1 gneE76_0 gneE76_1 gneE65_0 gneE65_1" intLanes=":cross2_0_0 :cross2_0_1 :cross2_8_0 :cross2_3_0 :cross2_4_0 :cross2_5_0 :cross2_6_0 :cross2_6_1" shape="-191.95,406.55 -191.95,393.45 -193.45,391.95 -206.55,391.95 -208.05,393.45 -208.05,406.55">
+        <request index="0" response="00000000" foes="00010000" cont="0"/>
+        <request index="1" response="00000000" foes="00010000" cont="0"/>
+        <request index="2" response="11000000" foes="11010000" cont="1"/>
+        <request index="3" response="11000000" foes="11000000" cont="0"/>
+        <request index="4" response="11000111" foes="11000111" cont="0"/>
+        <request index="5" response="00000000" foes="00000000" cont="0"/>
+        <request index="6" response="00000000" foes="00011100" cont="0"/>
+        <request index="7" response="00000000" foes="00011100" cont="0"/>
+    </junction>
+    <junction id="cross20" type="priority" x="400.00" y="-200.00" incLanes="gneE61_0 gneE61_1 gneE64_0 gneE64_1 gneE19_0 gneE19_1" intLanes=":cross20_0_0 :cross20_1_0 :cross20_1_1 :cross20_3_0 :cross20_3_1 :cross20_8_0 :cross20_6_0 :cross20_7_0" shape="393.45,-191.95 406.55,-191.95 406.55,-208.05 393.45,-208.05 391.95,-206.55 391.95,-193.45">
+        <request index="0" response="00000000" foes="00000000" cont="0"/>
+        <request index="1" response="00000000" foes="11100000" cont="0"/>
+        <request index="2" response="00000000" foes="11100000" cont="0"/>
+        <request index="3" response="00000000" foes="10000000" cont="0"/>
+        <request index="4" response="00000000" foes="10000000" cont="0"/>
+        <request index="5" response="00000110" foes="10000110" cont="1"/>
+        <request index="6" response="00000110" foes="00000110" cont="0"/>
+        <request index="7" response="00111110" foes="00111110" cont="0"/>
+    </junction>
+    <junction id="cross21" type="priority" x="-400.00" y="-400.00" incLanes="gneE39_0 gneE39_1 gneE34_0 gneE34_1" intLanes=":cross21_0_0 :cross21_1_0 :cross21_2_0 :cross21_3_0" shape="-406.55,-393.45 -393.45,-393.45 -393.45,-406.55">
+        <request index="0" response="0000" foes="0000" cont="0"/>
+        <request index="1" response="0000" foes="0000" cont="0"/>
+        <request index="2" response="0000" foes="0000" cont="0"/>
+        <request index="3" response="0000" foes="0000" cont="0"/>
+    </junction>
+    <junction id="cross22" type="priority" x="-200.00" y="-400.00" incLanes="gneE46_0 gneE46_1 gneE33_0 gneE33_1 gneE26_0 gneE26_1" intLanes=":cross22_0_0 :cross22_1_0 :cross22_2_0 :cross22_3_0 :cross22_3_1 :cross22_5_0 :cross22_5_1 :cross22_8_0" shape="-206.55,-391.95 -193.45,-391.95 -191.95,-393.45 -191.95,-406.55 -208.05,-406.55 -208.05,-393.45">
+        <request index="0" response="00011000" foes="00011000" cont="0"/>
+        <request index="1" response="11111000" foes="11111000" cont="0"/>
+        <request index="2" response="00000000" foes="00000000" cont="0"/>
+        <request index="3" response="00000000" foes="10000011" cont="0"/>
+        <request index="4" response="00000000" foes="10000011" cont="0"/>
+        <request index="5" response="00000000" foes="00000010" cont="0"/>
+        <request index="6" response="00000000" foes="00000010" cont="0"/>
+        <request index="7" response="00011000" foes="00011010" cont="1"/>
+    </junction>
+    <junction id="cross23" type="priority" x="0.00" y="-400.00" incLanes="gneE50_0 gneE50_1 gneE32_0 gneE32_1 gneE27_0 gneE27_1" intLanes=":cross23_0_0 :cross23_1_0 :cross23_2_0 :cross23_3_0 :cross23_3_1 :cross23_5_0 :cross23_5_1 :cross23_8_0" shape="-6.55,-391.95 6.55,-391.95 8.05,-393.45 8.05,-406.55 -8.05,-406.55 -8.05,-393.45">
+        <request index="0" response="00011000" foes="00011000" cont="0"/>
+        <request index="1" response="11111000" foes="11111000" cont="0"/>
+        <request index="2" response="00000000" foes="00000000" cont="0"/>
+        <request index="3" response="00000000" foes="10000011" cont="0"/>
+        <request index="4" response="00000000" foes="10000011" cont="0"/>
+        <request index="5" response="00000000" foes="00000010" cont="0"/>
+        <request index="6" response="00000000" foes="00000010" cont="0"/>
+        <request index="7" response="00011000" foes="00011010" cont="1"/>
+    </junction>
+    <junction id="cross24" type="priority" x="200.00" y="-400.00" incLanes="gneE55_0 gneE55_1 gneE30_0 gneE30_1 gneE28_0 gneE28_1" intLanes=":cross24_0_0 :cross24_1_0 :cross24_2_0 :cross24_3_0 :cross24_3_1 :cross24_5_0 :cross24_5_1 :cross24_8_0" shape="193.45,-391.95 206.55,-391.95 208.05,-393.45 208.05,-406.55 191.95,-406.55 191.95,-393.45">
+        <request index="0" response="00011000" foes="00011000" cont="0"/>
+        <request index="1" response="11111000" foes="11111000" cont="0"/>
+        <request index="2" response="00000000" foes="00000000" cont="0"/>
+        <request index="3" response="00000000" foes="10000011" cont="0"/>
+        <request index="4" response="00000000" foes="10000011" cont="0"/>
+        <request index="5" response="00000000" foes="00000010" cont="0"/>
+        <request index="6" response="00000000" foes="00000010" cont="0"/>
+        <request index="7" response="00011000" foes="00011010" cont="1"/>
+    </junction>
+    <junction id="cross25" type="priority" x="400.00" y="-400.00" incLanes="gneE63_0 gneE63_1 gneE29_0 gneE29_1" intLanes=":cross25_0_0 :cross25_1_0 :cross25_2_0 :cross25_3_0" shape="393.45,-393.45 406.55,-393.45 393.45,-406.55">
+        <request index="0" response="0000" foes="0000" cont="0"/>
+        <request index="1" response="0000" foes="0000" cont="0"/>
+        <request index="2" response="0000" foes="0000" cont="0"/>
+        <request index="3" response="0000" foes="0000" cont="0"/>
+    </junction>
+    <junction id="cross3" type="priority" x="0.00" y="400.00" incLanes="gneE70_0 gneE70_1 gneE78_0 gneE78_1 gneE66_0 gneE66_1" intLanes=":cross3_0_0 :cross3_0_1 :cross3_8_0 :cross3_3_0 :cross3_4_0 :cross3_5_0 :cross3_6_0 :cross3_6_1" shape="8.05,406.55 8.05,393.45 6.55,391.95 -6.55,391.95 -8.05,393.45 -8.05,406.55">
+        <request index="0" response="00000000" foes="00010000" cont="0"/>
+        <request index="1" response="00000000" foes="00010000" cont="0"/>
+        <request index="2" response="11000000" foes="11010000" cont="1"/>
+        <request index="3" response="11000000" foes="11000000" cont="0"/>
+        <request index="4" response="11000111" foes="11000111" cont="0"/>
+        <request index="5" response="00000000" foes="00000000" cont="0"/>
+        <request index="6" response="00000000" foes="00011100" cont="0"/>
+        <request index="7" response="00000000" foes="00011100" cont="0"/>
+    </junction>
+    <junction id="cross4" type="priority" x="200.00" y="400.00" incLanes="gneE69_0 gneE69_1 gneE80_0 gneE80_1 gneE67_0 gneE67_1" intLanes=":cross4_0_0 :cross4_0_1 :cross4_8_0 :cross4_3_0 :cross4_4_0 :cross4_5_0 :cross4_6_0 :cross4_6_1" shape="208.05,406.55 208.05,393.45 206.55,391.95 193.45,391.95 191.95,393.45 191.95,406.55">
+        <request index="0" response="00000000" foes="00010000" cont="0"/>
+        <request index="1" response="00000000" foes="00010000" cont="0"/>
+        <request index="2" response="11000000" foes="11010000" cont="1"/>
+        <request index="3" response="11000000" foes="11000000" cont="0"/>
+        <request index="4" response="11000111" foes="11000111" cont="0"/>
+        <request index="5" response="00000000" foes="00000000" cont="0"/>
+        <request index="6" response="00000000" foes="00011100" cont="0"/>
+        <request index="7" response="00000000" foes="00011100" cont="0"/>
+    </junction>
+    <junction id="cross5" type="priority" x="400.00" y="400.00" incLanes="gneE82_0 gneE82_1 gneE68_0 gneE68_1" intLanes=":cross5_0_0 :cross5_1_0 :cross5_2_0 :cross5_3_0" shape="406.55,393.45 393.45,393.45 393.45,406.55">
+        <request index="0" response="0000" foes="0000" cont="0"/>
+        <request index="1" response="0000" foes="0000" cont="0"/>
+        <request index="2" response="0000" foes="0000" cont="0"/>
+        <request index="3" response="0000" foes="0000" cont="0"/>
+    </junction>
+    <junction id="cross6" type="priority" x="-400.00" y="200.00" incLanes="gneE73_0 gneE73_1 gneE5_0 gneE5_1 gneE36_0 gneE36_1" intLanes=":cross6_0_0 :cross6_0_1 :cross6_8_0 :cross6_3_0 :cross6_4_0 :cross6_5_0 :cross6_6_0 :cross6_6_1" shape="-406.55,208.05 -393.45,208.05 -391.95,206.55 -391.95,193.45 -393.45,191.95 -406.55,191.95">
+        <request index="0" response="00000000" foes="00010000" cont="0"/>
+        <request index="1" response="00000000" foes="00010000" cont="0"/>
+        <request index="2" response="11000000" foes="11010000" cont="1"/>
+        <request index="3" response="11000000" foes="11000000" cont="0"/>
+        <request index="4" response="11000111" foes="11000111" cont="0"/>
+        <request index="5" response="00000000" foes="00000000" cont="0"/>
+        <request index="6" response="00000000" foes="00011100" cont="0"/>
+        <request index="7" response="00000000" foes="00011100" cont="0"/>
+    </junction>
+    <junction id="cross7" type="priority" x="-200.00" y="200.00" incLanes="gneE75_0 gneE75_1 gneE1_0 gneE1_1 gneE42_0 gneE42_1 gneE4_0 gneE4_1" intLanes=":cross7_0_0 :cross7_1_0 :cross7_1_1 :cross7_16_0 :cross7_4_0 :cross7_5_0 :cross7_5_1 :cross7_7_0 :cross7_8_0 :cross7_9_0 :cross7_9_1 :cross7_17_0 :cross7_12_0 :cross7_13_0 :cross7_13_1 :cross7_15_0" shape="-206.55,208.05 -193.45,208.05 -191.95,206.55 -191.95,193.45 -193.45,191.95 -206.55,191.95 -208.05,193.45 -208.05,206.55">
+        <request index="0" response="0000000000000000" foes="0000100001100000" cont="0"/>
+        <request index="1" response="0000000000000000" foes="1111100011100000" cont="0"/>
+        <request index="2" response="0000000000000000" foes="1111100011100000" cont="0"/>
+        <request index="3" response="0000011100000000" foes="1110011111100000" cont="1"/>
+        <request index="4" response="0000011000000000" foes="1000011000000000" cont="0"/>
+        <request index="5" response="0000111000001111" foes="1000111000001111" cont="0"/>
+        <request index="6" response="0000111000001111" foes="1000111000001111" cont="0"/>
+        <request index="7" response="0111111000001110" foes="0111111000001110" cont="0"/>
+        <request index="8" response="0000000000000000" foes="0110000000001000" cont="0"/>
+        <request index="9" response="0000000000000000" foes="1110000011111000" cont="0"/>
+        <request index="10" response="0000000000000000" foes="1110000011111000" cont="0"/>
+        <request index="11" response="0000000000000111" foes="1110000011100111" cont="1"/>
+        <request index="12" response="0000000000000110" foes="0000000010000110" cont="0"/>
+        <request index="13" response="0000111100001110" foes="0000111110001110" cont="0"/>
+        <request index="14" response="0000111100001110" foes="0000111110001110" cont="0"/>
+        <request index="15" response="0000111001111110" foes="0000111001111110" cont="0"/>
+    </junction>
+    <junction id="cross8" type="priority" x="0.00" y="200.00" incLanes="gneE77_0 gneE77_1 gneE3_0 gneE3_1 gneE48_0 gneE48_1 gneE0_0 gneE0_1" intLanes=":cross8_0_0 :cross8_1_0 :cross8_1_1 :cross8_16_0 :cross8_4_0 :cross8_5_0 :cross8_5_1 :cross8_7_0 :cross8_8_0 :cross8_9_0 :cross8_9_1 :cross8_17_0 :cross8_12_0 :cross8_13_0 :cross8_13_1 :cross8_15_0" shape="-6.55,208.05 6.55,208.05 8.05,206.55 8.05,193.45 6.55,191.95 -6.55,191.95 -8.05,193.45 -8.05,206.55">
+        <request index="0" response="0000000000000000" foes="0000100001100000" cont="0"/>
+        <request index="1" response="0000000000000000" foes="1111100011100000" cont="0"/>
+        <request index="2" response="0000000000000000" foes="1111100011100000" cont="0"/>
+        <request index="3" response="0000011100000000" foes="1110011111100000" cont="1"/>
+        <request index="4" response="0000011000000000" foes="1000011000000000" cont="0"/>
+        <request index="5" response="0000111000001111" foes="1000111000001111" cont="0"/>
+        <request index="6" response="0000111000001111" foes="1000111000001111" cont="0"/>
+        <request index="7" response="0111111000001110" foes="0111111000001110" cont="0"/>
+        <request index="8" response="0000000000000000" foes="0110000000001000" cont="0"/>
+        <request index="9" response="0000000000000000" foes="1110000011111000" cont="0"/>
+        <request index="10" response="0000000000000000" foes="1110000011111000" cont="0"/>
+        <request index="11" response="0000000000000111" foes="1110000011100111" cont="1"/>
+        <request index="12" response="0000000000000110" foes="0000000010000110" cont="0"/>
+        <request index="13" response="0000111100001110" foes="0000111110001110" cont="0"/>
+        <request index="14" response="0000111100001110" foes="0000111110001110" cont="0"/>
+        <request index="15" response="0000111001111110" foes="0000111001111110" cont="0"/>
+    </junction>
+    <junction id="cross9" type="priority" x="200.00" y="200.00" incLanes="gneE79_0 gneE79_1 gneE7_0 gneE7_1 gneE58_0 gneE58_1 gneE2_0 gneE2_1" intLanes=":cross9_0_0 :cross9_1_0 :cross9_1_1 :cross9_16_0 :cross9_4_0 :cross9_5_0 :cross9_5_1 :cross9_7_0 :cross9_8_0 :cross9_9_0 :cross9_9_1 :cross9_17_0 :cross9_12_0 :cross9_13_0 :cross9_13_1 :cross9_15_0" shape="193.45,208.05 206.55,208.05 208.05,206.55 208.05,193.45 206.55,191.95 193.45,191.95 191.95,193.45 191.95,206.55">
+        <request index="0" response="0000000000000000" foes="0000100001100000" cont="0"/>
+        <request index="1" response="0000000000000000" foes="1111100011100000" cont="0"/>
+        <request index="2" response="0000000000000000" foes="1111100011100000" cont="0"/>
+        <request index="3" response="0000011100000000" foes="1110011111100000" cont="1"/>
+        <request index="4" response="0000011000000000" foes="1000011000000000" cont="0"/>
+        <request index="5" response="0000111000001111" foes="1000111000001111" cont="0"/>
+        <request index="6" response="0000111000001111" foes="1000111000001111" cont="0"/>
+        <request index="7" response="0111111000001110" foes="0111111000001110" cont="0"/>
+        <request index="8" response="0000000000000000" foes="0110000000001000" cont="0"/>
+        <request index="9" response="0000000000000000" foes="1110000011111000" cont="0"/>
+        <request index="10" response="0000000000000000" foes="1110000011111000" cont="0"/>
+        <request index="11" response="0000000000000111" foes="1110000011100111" cont="1"/>
+        <request index="12" response="0000000000000110" foes="0000000010000110" cont="0"/>
+        <request index="13" response="0000111100001110" foes="0000111110001110" cont="0"/>
+        <request index="14" response="0000111100001110" foes="0000111110001110" cont="0"/>
+        <request index="15" response="0000111001111110" foes="0000111001111110" cont="0"/>
+    </junction>
+
+    <junction id=":cross10_8_0" type="internal" x="399.95" y="198.02" incLanes=":cross10_5_0 gneE81_0 gneE81_1" intLanes=":cross10_1_0 :cross10_1_1 :cross10_7_0"/>
+    <junction id=":cross11_8_0" type="internal" x="-399.95" y="1.98" incLanes=":cross11_2_0 gneE38_0 gneE38_1" intLanes=":cross11_4_0 :cross11_6_0 :cross11_6_1"/>
+    <junction id=":cross12_16_0" type="internal" x="-199.95" y="1.98" incLanes=":cross12_3_0 gneE44_0 gneE44_1" intLanes=":cross12_5_0 :cross12_5_1 :cross12_7_0 :cross12_8_0 :cross12_9_0 :cross12_9_1 :cross12_13_0 :cross12_13_1 :cross12_15_0"/>
+    <junction id=":cross12_17_0" type="internal" x="-200.05" y="-1.98" incLanes=":cross12_11_0 gneE41_0 gneE41_1" intLanes=":cross12_0_0 :cross12_1_0 :cross12_1_1 :cross12_5_0 :cross12_5_1 :cross12_7_0 :cross12_13_0 :cross12_13_1 :cross12_15_0"/>
+    <junction id=":cross13_16_0" type="internal" x="0.05" y="1.98" incLanes=":cross13_3_0 gneE49_0 gneE49_1" intLanes=":cross13_5_0 :cross13_5_1 :cross13_7_0 :cross13_8_0 :cross13_9_0 :cross13_9_1 :cross13_13_0 :cross13_13_1 :cross13_15_0"/>
+    <junction id=":cross13_17_0" type="internal" x="-0.05" y="-1.98" incLanes=":cross13_11_0 gneE47_0 gneE47_1" intLanes=":cross13_0_0 :cross13_1_0 :cross13_1_1 :cross13_5_0 :cross13_5_1 :cross13_7_0 :cross13_13_0 :cross13_13_1 :cross13_15_0"/>
+    <junction id=":cross14_16_0" type="internal" x="200.05" y="1.98" incLanes=":cross14_3_0 gneE57_0 gneE57_1" intLanes=":cross14_5_0 :cross14_5_1 :cross14_7_0 :cross14_8_0 :cross14_9_0 :cross14_9_1 :cross14_13_0 :cross14_13_1 :cross14_15_0"/>
+    <junction id=":cross14_17_0" type="internal" x="199.95" y="-1.98" incLanes=":cross14_11_0 gneE53_0 gneE53_1" intLanes=":cross14_0_0 :cross14_1_0 :cross14_1_1 :cross14_5_0 :cross14_5_1 :cross14_7_0 :cross14_13_0 :cross14_13_1 :cross14_15_0"/>
+    <junction id=":cross15_8_0" type="internal" x="399.95" y="-1.98" incLanes=":cross15_5_0 gneE59_0 gneE59_1" intLanes=":cross15_1_0 :cross15_1_1 :cross15_7_0"/>
+    <junction id=":cross16_8_0" type="internal" x="-399.95" y="-198.02" incLanes=":cross16_2_0 gneE40_0 gneE40_1" intLanes=":cross16_4_0 :cross16_6_0 :cross16_6_1"/>
+    <junction id=":cross17_16_0" type="internal" x="-199.95" y="-198.02" incLanes=":cross17_3_0 gneE45_0 gneE45_1" intLanes=":cross17_5_0 :cross17_5_1 :cross17_7_0 :cross17_8_0 :cross17_9_0 :cross17_9_1 :cross17_13_0 :cross17_13_1 :cross17_15_0"/>
+    <junction id=":cross17_17_0" type="internal" x="-200.05" y="-201.98" incLanes=":cross17_11_0 gneE43_0 gneE43_1" intLanes=":cross17_0_0 :cross17_1_0 :cross17_1_1 :cross17_5_0 :cross17_5_1 :cross17_7_0 :cross17_13_0 :cross17_13_1 :cross17_15_0"/>
+    <junction id=":cross18_16_0" type="internal" x="0.05" y="-198.02" incLanes=":cross18_3_0 gneE51_0 gneE51_1" intLanes=":cross18_5_0 :cross18_5_1 :cross18_7_0 :cross18_8_0 :cross18_9_0 :cross18_9_1 :cross18_13_0 :cross18_13_1 :cross18_15_0"/>
+    <junction id=":cross18_17_0" type="internal" x="-0.05" y="-201.98" incLanes=":cross18_11_0 gneE52_0 gneE52_1" intLanes=":cross18_0_0 :cross18_1_0 :cross18_1_1 :cross18_5_0 :cross18_5_1 :cross18_7_0 :cross18_13_0 :cross18_13_1 :cross18_15_0"/>
+    <junction id=":cross19_16_0" type="internal" x="200.05" y="-198.02" incLanes=":cross19_3_0 gneE56_0 gneE56_1" intLanes=":cross19_5_0 :cross19_5_1 :cross19_7_0 :cross19_8_0 :cross19_9_0 :cross19_9_1 :cross19_13_0 :cross19_13_1 :cross19_15_0"/>
+    <junction id=":cross19_17_0" type="internal" x="199.95" y="-201.98" incLanes=":cross19_11_0 gneE54_0 gneE54_1" intLanes=":cross19_0_0 :cross19_1_0 :cross19_1_1 :cross19_5_0 :cross19_5_1 :cross19_7_0 :cross19_13_0 :cross19_13_1 :cross19_15_0"/>
+    <junction id=":cross2_8_0" type="internal" x="-198.02" y="399.95" incLanes=":cross2_2_0 gneE65_0 gneE65_1" intLanes=":cross2_4_0 :cross2_6_0 :cross2_6_1"/>
+    <junction id=":cross20_8_0" type="internal" x="399.95" y="-201.98" incLanes=":cross20_5_0 gneE61_0 gneE61_1" intLanes=":cross20_1_0 :cross20_1_1 :cross20_7_0"/>
+    <junction id=":cross22_8_0" type="internal" x="-201.98" y="-399.95" incLanes=":cross22_7_0 gneE33_0 gneE33_1" intLanes=":cross22_1_0 :cross22_3_0 :cross22_3_1"/>
+    <junction id=":cross23_8_0" type="internal" x="-1.98" y="-399.95" incLanes=":cross23_7_0 gneE32_0 gneE32_1" intLanes=":cross23_1_0 :cross23_3_0 :cross23_3_1"/>
+    <junction id=":cross24_8_0" type="internal" x="198.02" y="-399.95" incLanes=":cross24_7_0 gneE30_0 gneE30_1" intLanes=":cross24_1_0 :cross24_3_0 :cross24_3_1"/>
+    <junction id=":cross3_8_0" type="internal" x="1.98" y="399.95" incLanes=":cross3_2_0 gneE66_0 gneE66_1" intLanes=":cross3_4_0 :cross3_6_0 :cross3_6_1"/>
+    <junction id=":cross4_8_0" type="internal" x="201.98" y="399.95" incLanes=":cross4_2_0 gneE67_0 gneE67_1" intLanes=":cross4_4_0 :cross4_6_0 :cross4_6_1"/>
+    <junction id=":cross6_8_0" type="internal" x="-399.95" y="201.98" incLanes=":cross6_2_0 gneE36_0 gneE36_1" intLanes=":cross6_4_0 :cross6_6_0 :cross6_6_1"/>
+    <junction id=":cross7_16_0" type="internal" x="-199.95" y="201.98" incLanes=":cross7_3_0 gneE42_0 gneE42_1" intLanes=":cross7_5_0 :cross7_5_1 :cross7_7_0 :cross7_8_0 :cross7_9_0 :cross7_9_1 :cross7_13_0 :cross7_13_1 :cross7_15_0"/>
+    <junction id=":cross7_17_0" type="internal" x="-200.05" y="198.02" incLanes=":cross7_11_0 gneE75_0 gneE75_1" intLanes=":cross7_0_0 :cross7_1_0 :cross7_1_1 :cross7_5_0 :cross7_5_1 :cross7_7_0 :cross7_13_0 :cross7_13_1 :cross7_15_0"/>
+    <junction id=":cross8_16_0" type="internal" x="0.05" y="201.98" incLanes=":cross8_3_0 gneE48_0 gneE48_1" intLanes=":cross8_5_0 :cross8_5_1 :cross8_7_0 :cross8_8_0 :cross8_9_0 :cross8_9_1 :cross8_13_0 :cross8_13_1 :cross8_15_0"/>
+    <junction id=":cross8_17_0" type="internal" x="-0.05" y="198.02" incLanes=":cross8_11_0 gneE77_0 gneE77_1" intLanes=":cross8_0_0 :cross8_1_0 :cross8_1_1 :cross8_5_0 :cross8_5_1 :cross8_7_0 :cross8_13_0 :cross8_13_1 :cross8_15_0"/>
+    <junction id=":cross9_16_0" type="internal" x="200.05" y="201.98" incLanes=":cross9_3_0 gneE58_0 gneE58_1" intLanes=":cross9_5_0 :cross9_5_1 :cross9_7_0 :cross9_8_0 :cross9_9_0 :cross9_9_1 :cross9_13_0 :cross9_13_1 :cross9_15_0"/>
+    <junction id=":cross9_17_0" type="internal" x="199.95" y="198.02" incLanes=":cross9_11_0 gneE79_0 gneE79_1" intLanes=":cross9_0_0 :cross9_1_0 :cross9_1_1 :cross9_5_0 :cross9_5_1 :cross9_7_0 :cross9_13_0 :cross9_13_1 :cross9_15_0"/>
+
+    <connection from="gneE0" to="gneE47" fromLane="0" toLane="0" via=":cross8_12_0" dir="r" state="m"/>
+    <connection from="gneE0" to="gneE2" fromLane="0" toLane="0" via=":cross8_13_0" dir="s" state="m"/>
+    <connection from="gneE0" to="gneE2" fromLane="1" toLane="1" via=":cross8_13_1" dir="s" state="m"/>
+    <connection from="gneE0" to="gneE78" fromLane="1" toLane="1" via=":cross8_15_0" dir="l" state="m"/>
+    <connection from="gneE1" to="gneE76" fromLane="0" toLane="0" via=":cross7_4_0" dir="r" state="m"/>
+    <connection from="gneE1" to="gneE5" fromLane="0" toLane="0" via=":cross7_5_0" dir="s" state="m"/>
+    <connection from="gneE1" to="gneE5" fromLane="1" toLane="1" via=":cross7_5_1" dir="s" state="m"/>
+    <connection from="gneE1" to="gneE41" fromLane="1" toLane="1" via=":cross7_7_0" dir="l" state="m"/>
+    <connection from="gneE10" to="gneE42" fromLane="0" toLane="0" via=":cross12_4_0" dir="r" state="m"/>
+    <connection from="gneE10" to="gneE9" fromLane="0" toLane="0" via=":cross12_5_0" dir="s" state="m"/>
+    <connection from="gneE10" to="gneE9" fromLane="1" toLane="1" via=":cross12_5_1" dir="s" state="m"/>
+    <connection from="gneE10" to="gneE43" fromLane="1" toLane="1" via=":cross12_7_0" dir="l" state="m"/>
+    <connection from="gneE11" to="gneE52" fromLane="0" toLane="0" via=":cross13_12_0" dir="r" state="m"/>
+    <connection from="gneE11" to="gneE13" fromLane="0" toLane="0" via=":cross13_13_0" dir="s" state="m"/>
+    <connection from="gneE11" to="gneE13" fromLane="1" toLane="1" via=":cross13_13_1" dir="s" state="m"/>
+    <connection from="gneE11" to="gneE48" fromLane="1" toLane="1" via=":cross13_15_0" dir="l" state="m"/>
+    <connection from="gneE12" to="gneE48" fromLane="0" toLane="0" via=":cross13_4_0" dir="r" state="m"/>
+    <connection from="gneE12" to="gneE10" fromLane="0" toLane="0" via=":cross13_5_0" dir="s" state="m"/>
+    <connection from="gneE12" to="gneE10" fromLane="1" toLane="1" via=":cross13_5_1" dir="s" state="m"/>
+    <connection from="gneE12" to="gneE52" fromLane="1" toLane="1" via=":cross13_7_0" dir="l" state="m"/>
+    <connection from="gneE13" to="gneE54" fromLane="0" toLane="0" via=":cross14_12_0" dir="r" state="m"/>
+    <connection from="gneE13" to="gneE15" fromLane="0" toLane="0" via=":cross14_13_0" dir="s" state="m"/>
+    <connection from="gneE13" to="gneE15" fromLane="1" toLane="1" via=":cross14_13_1" dir="s" state="m"/>
+    <connection from="gneE13" to="gneE58" fromLane="1" toLane="1" via=":cross14_15_0" dir="l" state="m"/>
+    <connection from="gneE14" to="gneE58" fromLane="0" toLane="0" via=":cross14_4_0" dir="r" state="m"/>
+    <connection from="gneE14" to="gneE12" fromLane="0" toLane="0" via=":cross14_5_0" dir="s" state="m"/>
+    <connection from="gneE14" to="gneE12" fromLane="1" toLane="1" via=":cross14_5_1" dir="s" state="m"/>
+    <connection from="gneE14" to="gneE54" fromLane="1" toLane="1" via=":cross14_7_0" dir="l" state="m"/>
+    <connection from="gneE15" to="gneE61" fromLane="0" toLane="0" via=":cross15_6_0" dir="r" state="m"/>
+    <connection from="gneE15" to="gneE60" fromLane="1" toLane="1" via=":cross15_7_0" dir="l" state="m"/>
+    <connection from="gneE16" to="gneE46" fromLane="0" toLane="0" via=":cross17_12_0" dir="r" state="m"/>
+    <connection from="gneE16" to="gneE23" fromLane="0" toLane="0" via=":cross17_13_0" dir="s" state="m"/>
+    <connection from="gneE16" to="gneE23" fromLane="1" toLane="1" via=":cross17_13_1" dir="s" state="m"/>
+    <connection from="gneE16" to="gneE44" fromLane="1" toLane="1" via=":cross17_15_0" dir="l" state="m"/>
+    <connection from="gneE17" to="gneE55" fromLane="0" toLane="0" via=":cross19_12_0" dir="r" state="m"/>
+    <connection from="gneE17" to="gneE19" fromLane="0" toLane="0" via=":cross19_13_0" dir="s" state="m"/>
+    <connection from="gneE17" to="gneE19" fromLane="1" toLane="1" via=":cross19_13_1" dir="s" state="m"/>
+    <connection from="gneE17" to="gneE57" fromLane="1" toLane="1" via=":cross19_15_0" dir="l" state="m"/>
+    <connection from="gneE18" to="gneE57" fromLane="0" toLane="0" via=":cross19_4_0" dir="r" state="m"/>
+    <connection from="gneE18" to="gneE25" fromLane="0" toLane="0" via=":cross19_5_0" dir="s" state="m"/>
+    <connection from="gneE18" to="gneE25" fromLane="1" toLane="1" via=":cross19_5_1" dir="s" state="m"/>
+    <connection from="gneE18" to="gneE55" fromLane="1" toLane="1" via=":cross19_7_0" dir="l" state="m"/>
+    <connection from="gneE19" to="gneE63" fromLane="0" toLane="0" via=":cross20_6_0" dir="r" state="m"/>
+    <connection from="gneE19" to="gneE62" fromLane="1" toLane="1" via=":cross20_7_0" dir="l" state="m"/>
+    <connection from="gneE2" to="gneE53" fromLane="0" toLane="0" via=":cross9_12_0" dir="r" state="m"/>
+    <connection from="gneE2" to="gneE6" fromLane="0" toLane="0" via=":cross9_13_0" dir="s" state="m"/>
+    <connection from="gneE2" to="gneE6" fromLane="1" toLane="1" via=":cross9_13_1" dir="s" state="m"/>
+    <connection from="gneE2" to="gneE80" fromLane="1" toLane="1" via=":cross9_15_0" dir="l" state="m"/>
+    <connection from="gneE20" to="gneE44" fromLane="0" toLane="0" via=":cross17_4_0" dir="r" state="m"/>
+    <connection from="gneE20" to="gneE22" fromLane="0" toLane="0" via=":cross17_5_0" dir="s" state="m"/>
+    <connection from="gneE20" to="gneE22" fromLane="1" toLane="1" via=":cross17_5_1" dir="s" state="m"/>
+    <connection from="gneE20" to="gneE46" fromLane="1" toLane="1" via=":cross17_7_0" dir="l" state="m"/>
+    <connection from="gneE22" to="gneE38" fromLane="0" toLane="0" via=":cross16_3_0" dir="r" state="m"/>
+    <connection from="gneE22" to="gneE39" fromLane="1" toLane="1" via=":cross16_4_0" dir="l" state="m"/>
+    <connection from="gneE23" to="gneE50" fromLane="0" toLane="0" via=":cross18_12_0" dir="r" state="m"/>
+    <connection from="gneE23" to="gneE17" fromLane="0" toLane="0" via=":cross18_13_0" dir="s" state="m"/>
+    <connection from="gneE23" to="gneE17" fromLane="1" toLane="1" via=":cross18_13_1" dir="s" state="m"/>
+    <connection from="gneE23" to="gneE49" fromLane="1" toLane="1" via=":cross18_15_0" dir="l" state="m"/>
+    <connection from="gneE25" to="gneE49" fromLane="0" toLane="0" via=":cross18_4_0" dir="r" state="m"/>
+    <connection from="gneE25" to="gneE20" fromLane="0" toLane="0" via=":cross18_5_0" dir="s" state="m"/>
+    <connection from="gneE25" to="gneE20" fromLane="1" toLane="1" via=":cross18_5_1" dir="s" state="m"/>
+    <connection from="gneE25" to="gneE50" fromLane="1" toLane="1" via=":cross18_7_0" dir="l" state="m"/>
+    <connection from="gneE26" to="gneE27" fromLane="0" toLane="0" via=":cross22_5_0" dir="s" state="M"/>
+    <connection from="gneE26" to="gneE27" fromLane="1" toLane="1" via=":cross22_5_1" dir="s" state="M"/>
+    <connection from="gneE26" to="gneE45" fromLane="1" toLane="1" via=":cross22_7_0" dir="l" state="m"/>
+    <connection from="gneE27" to="gneE28" fromLane="0" toLane="0" via=":cross23_5_0" dir="s" state="M"/>
+    <connection from="gneE27" to="gneE28" fromLane="1" toLane="1" via=":cross23_5_1" dir="s" state="M"/>
+    <connection from="gneE27" to="gneE51" fromLane="1" toLane="1" via=":cross23_7_0" dir="l" state="m"/>
+    <connection from="gneE28" to="gneE29" fromLane="0" toLane="0" via=":cross24_5_0" dir="s" state="M"/>
+    <connection from="gneE28" to="gneE29" fromLane="1" toLane="1" via=":cross24_5_1" dir="s" state="M"/>
+    <connection from="gneE28" to="gneE56" fromLane="1" toLane="1" via=":cross24_7_0" dir="l" state="m"/>
+    <connection from="gneE29" to="gneE64" fromLane="0" toLane="0" via=":cross25_2_0" dir="l" state="M"/>
+    <connection from="gneE29" to="gneE64" fromLane="1" toLane="1" via=":cross25_3_0" dir="l" state="M"/>
+    <connection from="gneE3" to="gneE78" fromLane="0" toLane="0" via=":cross8_4_0" dir="r" state="m"/>
+    <connection from="gneE3" to="gneE1" fromLane="0" toLane="0" via=":cross8_5_0" dir="s" state="m"/>
+    <connection from="gneE3" to="gneE1" fromLane="1" toLane="1" via=":cross8_5_1" dir="s" state="m"/>
+    <connection from="gneE3" to="gneE47" fromLane="1" toLane="1" via=":cross8_7_0" dir="l" state="m"/>
+    <connection from="gneE30" to="gneE56" fromLane="0" toLane="0" via=":cross24_2_0" dir="r" state="M"/>
+    <connection from="gneE30" to="gneE32" fromLane="0" toLane="0" via=":cross24_3_0" dir="s" state="M"/>
+    <connection from="gneE30" to="gneE32" fromLane="1" toLane="1" via=":cross24_3_1" dir="s" state="M"/>
+    <connection from="gneE32" to="gneE51" fromLane="0" toLane="0" via=":cross23_2_0" dir="r" state="M"/>
+    <connection from="gneE32" to="gneE33" fromLane="0" toLane="0" via=":cross23_3_0" dir="s" state="M"/>
+    <connection from="gneE32" to="gneE33" fromLane="1" toLane="1" via=":cross23_3_1" dir="s" state="M"/>
+    <connection from="gneE33" to="gneE45" fromLane="0" toLane="0" via=":cross22_2_0" dir="r" state="M"/>
+    <connection from="gneE33" to="gneE34" fromLane="0" toLane="0" via=":cross22_3_0" dir="s" state="M"/>
+    <connection from="gneE33" to="gneE34" fromLane="1" toLane="1" via=":cross22_3_1" dir="s" state="M"/>
+    <connection from="gneE34" to="gneE40" fromLane="0" toLane="0" via=":cross21_2_0" dir="r" state="M"/>
+    <connection from="gneE34" to="gneE40" fromLane="1" toLane="1" via=":cross21_3_0" dir="r" state="M"/>
+    <connection from="gneE35" to="gneE37" fromLane="0" toLane="0" via=":cross11_0_0" dir="s" state="M"/>
+    <connection from="gneE35" to="gneE37" fromLane="1" toLane="1" via=":cross11_0_1" dir="s" state="M"/>
+    <connection from="gneE35" to="gneE8" fromLane="1" toLane="1" via=":cross11_2_0" dir="l" state="m"/>
+    <connection from="gneE36" to="gneE4" fromLane="0" toLane="0" via=":cross6_5_0" dir="r" state="M"/>
+    <connection from="gneE36" to="gneE74" fromLane="0" toLane="0" via=":cross6_6_0" dir="s" state="M"/>
+    <connection from="gneE36" to="gneE74" fromLane="1" toLane="1" via=":cross6_6_1" dir="s" state="M"/>
+    <connection from="gneE37" to="gneE39" fromLane="0" toLane="0" via=":cross16_0_0" dir="s" state="M"/>
+    <connection from="gneE37" to="gneE39" fromLane="1" toLane="1" via=":cross16_0_1" dir="s" state="M"/>
+    <connection from="gneE37" to="gneE16" fromLane="1" toLane="1" via=":cross16_2_0" dir="l" state="m"/>
+    <connection from="gneE38" to="gneE8" fromLane="0" toLane="0" via=":cross11_5_0" dir="r" state="M"/>
+    <connection from="gneE38" to="gneE36" fromLane="0" toLane="0" via=":cross11_6_0" dir="s" state="M"/>
+    <connection from="gneE38" to="gneE36" fromLane="1" toLane="1" via=":cross11_6_1" dir="s" state="M"/>
+    <connection from="gneE39" to="gneE26" fromLane="0" toLane="0" via=":cross21_0_0" dir="l" state="M"/>
+    <connection from="gneE39" to="gneE26" fromLane="1" toLane="1" via=":cross21_1_0" dir="l" state="M"/>
+    <connection from="gneE4" to="gneE41" fromLane="0" toLane="0" via=":cross7_12_0" dir="r" state="m"/>
+    <connection from="gneE4" to="gneE0" fromLane="0" toLane="0" via=":cross7_13_0" dir="s" state="m"/>
+    <connection from="gneE4" to="gneE0" fromLane="1" toLane="1" via=":cross7_13_1" dir="s" state="m"/>
+    <connection from="gneE4" to="gneE76" fromLane="1" toLane="1" via=":cross7_15_0" dir="l" state="m"/>
+    <connection from="gneE40" to="gneE16" fromLane="0" toLane="0" via=":cross16_5_0" dir="r" state="M"/>
+    <connection from="gneE40" to="gneE38" fromLane="0" toLane="0" via=":cross16_6_0" dir="s" state="M"/>
+    <connection from="gneE40" to="gneE38" fromLane="1" toLane="1" via=":cross16_6_1" dir="s" state="M"/>
+    <connection from="gneE41" to="gneE9" fromLane="0" toLane="0" via=":cross12_0_0" dir="r" state="M"/>
+    <connection from="gneE41" to="gneE43" fromLane="0" toLane="0" via=":cross12_1_0" dir="s" state="M"/>
+    <connection from="gneE41" to="gneE43" fromLane="1" toLane="1" via=":cross12_1_1" dir="s" state="M"/>
+    <connection from="gneE41" to="gneE11" fromLane="1" toLane="1" via=":cross12_3_0" dir="l" state="m"/>
+    <connection from="gneE42" to="gneE0" fromLane="0" toLane="0" via=":cross7_8_0" dir="r" state="M"/>
+    <connection from="gneE42" to="gneE76" fromLane="0" toLane="0" via=":cross7_9_0" dir="s" state="M"/>
+    <connection from="gneE42" to="gneE76" fromLane="1" toLane="1" via=":cross7_9_1" dir="s" state="M"/>
+    <connection from="gneE42" to="gneE5" fromLane="1" toLane="1" via=":cross7_11_0" dir="l" state="m"/>
+    <connection from="gneE43" to="gneE22" fromLane="0" toLane="0" via=":cross17_0_0" dir="r" state="M"/>
+    <connection from="gneE43" to="gneE46" fromLane="0" toLane="0" via=":cross17_1_0" dir="s" state="M"/>
+    <connection from="gneE43" to="gneE46" fromLane="1" toLane="1" via=":cross17_1_1" dir="s" state="M"/>
+    <connection from="gneE43" to="gneE23" fromLane="1" toLane="1" via=":cross17_3_0" dir="l" state="m"/>
+    <connection from="gneE44" to="gneE11" fromLane="0" toLane="0" via=":cross12_8_0" dir="r" state="M"/>
+    <connection from="gneE44" to="gneE42" fromLane="0" toLane="0" via=":cross12_9_0" dir="s" state="M"/>
+    <connection from="gneE44" to="gneE42" fromLane="1" toLane="1" via=":cross12_9_1" dir="s" state="M"/>
+    <connection from="gneE44" to="gneE9" fromLane="1" toLane="1" via=":cross12_11_0" dir="l" state="m"/>
+    <connection from="gneE45" to="gneE23" fromLane="0" toLane="0" via=":cross17_8_0" dir="r" state="M"/>
+    <connection from="gneE45" to="gneE44" fromLane="0" toLane="0" via=":cross17_9_0" dir="s" state="M"/>
+    <connection from="gneE45" to="gneE44" fromLane="1" toLane="1" via=":cross17_9_1" dir="s" state="M"/>
+    <connection from="gneE45" to="gneE22" fromLane="1" toLane="1" via=":cross17_11_0" dir="l" state="m"/>
+    <connection from="gneE46" to="gneE34" fromLane="0" toLane="0" via=":cross22_0_0" dir="r" state="m"/>
+    <connection from="gneE46" to="gneE27" fromLane="1" toLane="1" via=":cross22_1_0" dir="l" state="m"/>
+    <connection from="gneE47" to="gneE10" fromLane="0" toLane="0" via=":cross13_0_0" dir="r" state="M"/>
+    <connection from="gneE47" to="gneE52" fromLane="0" toLane="0" via=":cross13_1_0" dir="s" state="M"/>
+    <connection from="gneE47" to="gneE52" fromLane="1" toLane="1" via=":cross13_1_1" dir="s" state="M"/>
+    <connection from="gneE47" to="gneE13" fromLane="1" toLane="1" via=":cross13_3_0" dir="l" state="m"/>
+    <connection from="gneE48" to="gneE2" fromLane="0" toLane="0" via=":cross8_8_0" dir="r" state="M"/>
+    <connection from="gneE48" to="gneE78" fromLane="0" toLane="0" via=":cross8_9_0" dir="s" state="M"/>
+    <connection from="gneE48" to="gneE78" fromLane="1" toLane="1" via=":cross8_9_1" dir="s" state="M"/>
+    <connection from="gneE48" to="gneE1" fromLane="1" toLane="1" via=":cross8_11_0" dir="l" state="m"/>
+    <connection from="gneE49" to="gneE13" fromLane="0" toLane="0" via=":cross13_8_0" dir="r" state="M"/>
+    <connection from="gneE49" to="gneE48" fromLane="0" toLane="0" via=":cross13_9_0" dir="s" state="M"/>
+    <connection from="gneE49" to="gneE48" fromLane="1" toLane="1" via=":cross13_9_1" dir="s" state="M"/>
+    <connection from="gneE49" to="gneE10" fromLane="1" toLane="1" via=":cross13_11_0" dir="l" state="m"/>
+    <connection from="gneE5" to="gneE74" fromLane="0" toLane="0" via=":cross6_3_0" dir="r" state="m"/>
+    <connection from="gneE5" to="gneE35" fromLane="1" toLane="1" via=":cross6_4_0" dir="l" state="m"/>
+    <connection from="gneE50" to="gneE33" fromLane="0" toLane="0" via=":cross23_0_0" dir="r" state="m"/>
+    <connection from="gneE50" to="gneE28" fromLane="1" toLane="1" via=":cross23_1_0" dir="l" state="m"/>
+    <connection from="gneE51" to="gneE17" fromLane="0" toLane="0" via=":cross18_8_0" dir="r" state="M"/>
+    <connection from="gneE51" to="gneE49" fromLane="0" toLane="0" via=":cross18_9_0" dir="s" state="M"/>
+    <connection from="gneE51" to="gneE49" fromLane="1" toLane="1" via=":cross18_9_1" dir="s" state="M"/>
+    <connection from="gneE51" to="gneE20" fromLane="1" toLane="1" via=":cross18_11_0" dir="l" state="m"/>
+    <connection from="gneE52" to="gneE20" fromLane="0" toLane="0" via=":cross18_0_0" dir="r" state="M"/>
+    <connection from="gneE52" to="gneE50" fromLane="0" toLane="0" via=":cross18_1_0" dir="s" state="M"/>
+    <connection from="gneE52" to="gneE50" fromLane="1" toLane="1" via=":cross18_1_1" dir="s" state="M"/>
+    <connection from="gneE52" to="gneE17" fromLane="1" toLane="1" via=":cross18_3_0" dir="l" state="m"/>
+    <connection from="gneE53" to="gneE12" fromLane="0" toLane="0" via=":cross14_0_0" dir="r" state="M"/>
+    <connection from="gneE53" to="gneE54" fromLane="0" toLane="0" via=":cross14_1_0" dir="s" state="M"/>
+    <connection from="gneE53" to="gneE54" fromLane="1" toLane="1" via=":cross14_1_1" dir="s" state="M"/>
+    <connection from="gneE53" to="gneE15" fromLane="1" toLane="1" via=":cross14_3_0" dir="l" state="m"/>
+    <connection from="gneE54" to="gneE25" fromLane="0" toLane="0" via=":cross19_0_0" dir="r" state="M"/>
+    <connection from="gneE54" to="gneE55" fromLane="0" toLane="0" via=":cross19_1_0" dir="s" state="M"/>
+    <connection from="gneE54" to="gneE55" fromLane="1" toLane="1" via=":cross19_1_1" dir="s" state="M"/>
+    <connection from="gneE54" to="gneE19" fromLane="1" toLane="1" via=":cross19_3_0" dir="l" state="m"/>
+    <connection from="gneE55" to="gneE32" fromLane="0" toLane="0" via=":cross24_0_0" dir="r" state="m"/>
+    <connection from="gneE55" to="gneE29" fromLane="1" toLane="1" via=":cross24_1_0" dir="l" state="m"/>
+    <connection from="gneE56" to="gneE19" fromLane="0" toLane="0" via=":cross19_8_0" dir="r" state="M"/>
+    <connection from="gneE56" to="gneE57" fromLane="0" toLane="0" via=":cross19_9_0" dir="s" state="M"/>
+    <connection from="gneE56" to="gneE57" fromLane="1" toLane="1" via=":cross19_9_1" dir="s" state="M"/>
+    <connection from="gneE56" to="gneE25" fromLane="1" toLane="1" via=":cross19_11_0" dir="l" state="m"/>
+    <connection from="gneE57" to="gneE15" fromLane="0" toLane="0" via=":cross14_8_0" dir="r" state="M"/>
+    <connection from="gneE57" to="gneE58" fromLane="0" toLane="0" via=":cross14_9_0" dir="s" state="M"/>
+    <connection from="gneE57" to="gneE58" fromLane="1" toLane="1" via=":cross14_9_1" dir="s" state="M"/>
+    <connection from="gneE57" to="gneE12" fromLane="1" toLane="1" via=":cross14_11_0" dir="l" state="m"/>
+    <connection from="gneE58" to="gneE6" fromLane="0" toLane="0" via=":cross9_8_0" dir="r" state="M"/>
+    <connection from="gneE58" to="gneE80" fromLane="0" toLane="0" via=":cross9_9_0" dir="s" state="M"/>
+    <connection from="gneE58" to="gneE80" fromLane="1" toLane="1" via=":cross9_9_1" dir="s" state="M"/>
+    <connection from="gneE58" to="gneE3" fromLane="1" toLane="1" via=":cross9_11_0" dir="l" state="m"/>
+    <connection from="gneE59" to="gneE14" fromLane="0" toLane="0" via=":cross15_0_0" dir="r" state="M"/>
+    <connection from="gneE59" to="gneE61" fromLane="0" toLane="0" via=":cross15_1_0" dir="s" state="M"/>
+    <connection from="gneE59" to="gneE61" fromLane="1" toLane="1" via=":cross15_1_1" dir="s" state="M"/>
+    <connection from="gneE6" to="gneE59" fromLane="0" toLane="0" via=":cross10_6_0" dir="r" state="m"/>
+    <connection from="gneE6" to="gneE82" fromLane="1" toLane="1" via=":cross10_7_0" dir="l" state="m"/>
+    <connection from="gneE60" to="gneE82" fromLane="0" toLane="0" via=":cross10_3_0" dir="s" state="M"/>
+    <connection from="gneE60" to="gneE82" fromLane="1" toLane="1" via=":cross10_3_1" dir="s" state="M"/>
+    <connection from="gneE60" to="gneE7" fromLane="1" toLane="1" via=":cross10_5_0" dir="l" state="m"/>
+    <connection from="gneE61" to="gneE18" fromLane="0" toLane="0" via=":cross20_0_0" dir="r" state="M"/>
+    <connection from="gneE61" to="gneE63" fromLane="0" toLane="0" via=":cross20_1_0" dir="s" state="M"/>
+    <connection from="gneE61" to="gneE63" fromLane="1" toLane="1" via=":cross20_1_1" dir="s" state="M"/>
+    <connection from="gneE62" to="gneE60" fromLane="0" toLane="0" via=":cross15_3_0" dir="s" state="M"/>
+    <connection from="gneE62" to="gneE60" fromLane="1" toLane="1" via=":cross15_3_1" dir="s" state="M"/>
+    <connection from="gneE62" to="gneE14" fromLane="1" toLane="1" via=":cross15_5_0" dir="l" state="m"/>
+    <connection from="gneE63" to="gneE30" fromLane="0" toLane="0" via=":cross25_0_0" dir="r" state="M"/>
+    <connection from="gneE63" to="gneE30" fromLane="1" toLane="1" via=":cross25_1_0" dir="r" state="M"/>
+    <connection from="gneE64" to="gneE62" fromLane="0" toLane="0" via=":cross20_3_0" dir="s" state="M"/>
+    <connection from="gneE64" to="gneE62" fromLane="1" toLane="1" via=":cross20_3_1" dir="s" state="M"/>
+    <connection from="gneE64" to="gneE18" fromLane="1" toLane="1" via=":cross20_5_0" dir="l" state="m"/>
+    <connection from="gneE65" to="gneE75" fromLane="0" toLane="0" via=":cross2_5_0" dir="r" state="M"/>
+    <connection from="gneE65" to="gneE66" fromLane="0" toLane="0" via=":cross2_6_0" dir="s" state="M"/>
+    <connection from="gneE65" to="gneE66" fromLane="1" toLane="1" via=":cross2_6_1" dir="s" state="M"/>
+    <connection from="gneE66" to="gneE77" fromLane="0" toLane="0" via=":cross3_5_0" dir="r" state="M"/>
+    <connection from="gneE66" to="gneE67" fromLane="0" toLane="0" via=":cross3_6_0" dir="s" state="M"/>
+    <connection from="gneE66" to="gneE67" fromLane="1" toLane="1" via=":cross3_6_1" dir="s" state="M"/>
+    <connection from="gneE67" to="gneE79" fromLane="0" toLane="0" via=":cross4_5_0" dir="r" state="M"/>
+    <connection from="gneE67" to="gneE68" fromLane="0" toLane="0" via=":cross4_6_0" dir="s" state="M"/>
+    <connection from="gneE67" to="gneE68" fromLane="1" toLane="1" via=":cross4_6_1" dir="s" state="M"/>
+    <connection from="gneE68" to="gneE81" fromLane="0" toLane="0" via=":cross5_2_0" dir="r" state="M"/>
+    <connection from="gneE68" to="gneE81" fromLane="1" toLane="1" via=":cross5_3_0" dir="r" state="M"/>
+    <connection from="gneE69" to="gneE70" fromLane="0" toLane="0" via=":cross4_0_0" dir="s" state="M"/>
+    <connection from="gneE69" to="gneE70" fromLane="1" toLane="1" via=":cross4_0_1" dir="s" state="M"/>
+    <connection from="gneE69" to="gneE79" fromLane="1" toLane="1" via=":cross4_2_0" dir="l" state="m"/>
+    <connection from="gneE7" to="gneE80" fromLane="0" toLane="0" via=":cross9_4_0" dir="r" state="m"/>
+    <connection from="gneE7" to="gneE3" fromLane="0" toLane="0" via=":cross9_5_0" dir="s" state="m"/>
+    <connection from="gneE7" to="gneE3" fromLane="1" toLane="1" via=":cross9_5_1" dir="s" state="m"/>
+    <connection from="gneE7" to="gneE53" fromLane="1" toLane="1" via=":cross9_7_0" dir="l" state="m"/>
+    <connection from="gneE70" to="gneE71" fromLane="0" toLane="0" via=":cross3_0_0" dir="s" state="M"/>
+    <connection from="gneE70" to="gneE71" fromLane="1" toLane="1" via=":cross3_0_1" dir="s" state="M"/>
+    <connection from="gneE70" to="gneE77" fromLane="1" toLane="1" via=":cross3_2_0" dir="l" state="m"/>
+    <connection from="gneE71" to="gneE72" fromLane="0" toLane="0" via=":cross2_0_0" dir="s" state="M"/>
+    <connection from="gneE71" to="gneE72" fromLane="1" toLane="1" via=":cross2_0_1" dir="s" state="M"/>
+    <connection from="gneE71" to="gneE75" fromLane="1" toLane="1" via=":cross2_2_0" dir="l" state="m"/>
+    <connection from="gneE72" to="gneE73" fromLane="0" toLane="0" via=":cross1_0_0" dir="l" state="M"/>
+    <connection from="gneE72" to="gneE73" fromLane="1" toLane="1" via=":cross1_1_0" dir="l" state="M"/>
+    <connection from="gneE73" to="gneE35" fromLane="0" toLane="0" via=":cross6_0_0" dir="s" state="M"/>
+    <connection from="gneE73" to="gneE35" fromLane="1" toLane="1" via=":cross6_0_1" dir="s" state="M"/>
+    <connection from="gneE73" to="gneE4" fromLane="1" toLane="1" via=":cross6_2_0" dir="l" state="m"/>
+    <connection from="gneE74" to="gneE65" fromLane="0" toLane="0" via=":cross1_2_0" dir="r" state="M"/>
+    <connection from="gneE74" to="gneE65" fromLane="1" toLane="1" via=":cross1_3_0" dir="r" state="M"/>
+    <connection from="gneE75" to="gneE5" fromLane="0" toLane="0" via=":cross7_0_0" dir="r" state="M"/>
+    <connection from="gneE75" to="gneE41" fromLane="0" toLane="0" via=":cross7_1_0" dir="s" state="M"/>
+    <connection from="gneE75" to="gneE41" fromLane="1" toLane="1" via=":cross7_1_1" dir="s" state="M"/>
+    <connection from="gneE75" to="gneE0" fromLane="1" toLane="1" via=":cross7_3_0" dir="l" state="m"/>
+    <connection from="gneE76" to="gneE66" fromLane="0" toLane="0" via=":cross2_3_0" dir="r" state="m"/>
+    <connection from="gneE76" to="gneE72" fromLane="1" toLane="1" via=":cross2_4_0" dir="l" state="m"/>
+    <connection from="gneE77" to="gneE1" fromLane="0" toLane="0" via=":cross8_0_0" dir="r" state="M"/>
+    <connection from="gneE77" to="gneE47" fromLane="0" toLane="0" via=":cross8_1_0" dir="s" state="M"/>
+    <connection from="gneE77" to="gneE47" fromLane="1" toLane="1" via=":cross8_1_1" dir="s" state="M"/>
+    <connection from="gneE77" to="gneE2" fromLane="1" toLane="1" via=":cross8_3_0" dir="l" state="m"/>
+    <connection from="gneE78" to="gneE67" fromLane="0" toLane="0" via=":cross3_3_0" dir="r" state="m"/>
+    <connection from="gneE78" to="gneE71" fromLane="1" toLane="1" via=":cross3_4_0" dir="l" state="m"/>
+    <connection from="gneE79" to="gneE3" fromLane="0" toLane="0" via=":cross9_0_0" dir="r" state="M"/>
+    <connection from="gneE79" to="gneE53" fromLane="0" toLane="0" via=":cross9_1_0" dir="s" state="M"/>
+    <connection from="gneE79" to="gneE53" fromLane="1" toLane="1" via=":cross9_1_1" dir="s" state="M"/>
+    <connection from="gneE79" to="gneE6" fromLane="1" toLane="1" via=":cross9_3_0" dir="l" state="m"/>
+    <connection from="gneE8" to="gneE43" fromLane="0" toLane="0" via=":cross12_12_0" dir="r" state="m"/>
+    <connection from="gneE8" to="gneE11" fromLane="0" toLane="0" via=":cross12_13_0" dir="s" state="m"/>
+    <connection from="gneE8" to="gneE11" fromLane="1" toLane="1" via=":cross12_13_1" dir="s" state="m"/>
+    <connection from="gneE8" to="gneE42" fromLane="1" toLane="1" via=":cross12_15_0" dir="l" state="m"/>
+    <connection from="gneE80" to="gneE68" fromLane="0" toLane="0" via=":cross4_3_0" dir="r" state="m"/>
+    <connection from="gneE80" to="gneE70" fromLane="1" toLane="1" via=":cross4_4_0" dir="l" state="m"/>
+    <connection from="gneE81" to="gneE7" fromLane="0" toLane="0" via=":cross10_0_0" dir="r" state="M"/>
+    <connection from="gneE81" to="gneE59" fromLane="0" toLane="0" via=":cross10_1_0" dir="s" state="M"/>
+    <connection from="gneE81" to="gneE59" fromLane="1" toLane="1" via=":cross10_1_1" dir="s" state="M"/>
+    <connection from="gneE82" to="gneE69" fromLane="0" toLane="0" via=":cross5_0_0" dir="l" state="M"/>
+    <connection from="gneE82" to="gneE69" fromLane="1" toLane="1" via=":cross5_1_0" dir="l" state="M"/>
+    <connection from="gneE9" to="gneE36" fromLane="0" toLane="0" via=":cross11_3_0" dir="r" state="m"/>
+    <connection from="gneE9" to="gneE37" fromLane="1" toLane="1" via=":cross11_4_0" dir="l" state="m"/>
+
+    <connection from=":cross1_0" to="gneE73" fromLane="0" toLane="0" dir="l" state="M"/>
+    <connection from=":cross1_1" to="gneE73" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross1_2" to="gneE65" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross1_3" to="gneE65" fromLane="0" toLane="1" dir="r" state="M"/>
+    <connection from=":cross10_0" to="gneE7" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross10_1" to="gneE59" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross10_1" to="gneE59" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross10_3" to="gneE82" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross10_3" to="gneE82" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross10_5" to="gneE7" fromLane="0" toLane="1" via=":cross10_8_0" dir="l" state="m"/>
+    <connection from=":cross10_8" to="gneE7" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross10_6" to="gneE59" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross10_7" to="gneE82" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross11_0" to="gneE37" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross11_0" to="gneE37" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross11_2" to="gneE8" fromLane="0" toLane="1" via=":cross11_8_0" dir="l" state="m"/>
+    <connection from=":cross11_8" to="gneE8" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross11_3" to="gneE36" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross11_4" to="gneE37" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross11_5" to="gneE8" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross11_6" to="gneE36" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross11_6" to="gneE36" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross12_0" to="gneE9" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross12_1" to="gneE43" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross12_1" to="gneE43" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross12_3" to="gneE11" fromLane="0" toLane="1" via=":cross12_16_0" dir="l" state="m"/>
+    <connection from=":cross12_16" to="gneE11" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross12_4" to="gneE42" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross12_5" to="gneE9" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross12_5" to="gneE9" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross12_7" to="gneE43" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross12_8" to="gneE11" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross12_9" to="gneE42" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross12_9" to="gneE42" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross12_11" to="gneE9" fromLane="0" toLane="1" via=":cross12_17_0" dir="l" state="m"/>
+    <connection from=":cross12_17" to="gneE9" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross12_12" to="gneE43" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross12_13" to="gneE11" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross12_13" to="gneE11" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross12_15" to="gneE42" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross13_0" to="gneE10" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross13_1" to="gneE52" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross13_1" to="gneE52" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross13_3" to="gneE13" fromLane="0" toLane="1" via=":cross13_16_0" dir="l" state="m"/>
+    <connection from=":cross13_16" to="gneE13" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross13_4" to="gneE48" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross13_5" to="gneE10" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross13_5" to="gneE10" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross13_7" to="gneE52" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross13_8" to="gneE13" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross13_9" to="gneE48" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross13_9" to="gneE48" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross13_11" to="gneE10" fromLane="0" toLane="1" via=":cross13_17_0" dir="l" state="m"/>
+    <connection from=":cross13_17" to="gneE10" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross13_12" to="gneE52" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross13_13" to="gneE13" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross13_13" to="gneE13" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross13_15" to="gneE48" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross14_0" to="gneE12" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross14_1" to="gneE54" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross14_1" to="gneE54" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross14_3" to="gneE15" fromLane="0" toLane="1" via=":cross14_16_0" dir="l" state="m"/>
+    <connection from=":cross14_16" to="gneE15" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross14_4" to="gneE58" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross14_5" to="gneE12" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross14_5" to="gneE12" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross14_7" to="gneE54" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross14_8" to="gneE15" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross14_9" to="gneE58" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross14_9" to="gneE58" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross14_11" to="gneE12" fromLane="0" toLane="1" via=":cross14_17_0" dir="l" state="m"/>
+    <connection from=":cross14_17" to="gneE12" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross14_12" to="gneE54" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross14_13" to="gneE15" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross14_13" to="gneE15" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross14_15" to="gneE58" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross15_0" to="gneE14" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross15_1" to="gneE61" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross15_1" to="gneE61" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross15_3" to="gneE60" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross15_3" to="gneE60" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross15_5" to="gneE14" fromLane="0" toLane="1" via=":cross15_8_0" dir="l" state="m"/>
+    <connection from=":cross15_8" to="gneE14" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross15_6" to="gneE61" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross15_7" to="gneE60" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross16_0" to="gneE39" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross16_0" to="gneE39" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross16_2" to="gneE16" fromLane="0" toLane="1" via=":cross16_8_0" dir="l" state="m"/>
+    <connection from=":cross16_8" to="gneE16" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross16_3" to="gneE38" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross16_4" to="gneE39" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross16_5" to="gneE16" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross16_6" to="gneE38" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross16_6" to="gneE38" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross17_0" to="gneE22" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross17_1" to="gneE46" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross17_1" to="gneE46" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross17_3" to="gneE23" fromLane="0" toLane="1" via=":cross17_16_0" dir="l" state="m"/>
+    <connection from=":cross17_16" to="gneE23" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross17_4" to="gneE44" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross17_5" to="gneE22" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross17_5" to="gneE22" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross17_7" to="gneE46" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross17_8" to="gneE23" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross17_9" to="gneE44" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross17_9" to="gneE44" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross17_11" to="gneE22" fromLane="0" toLane="1" via=":cross17_17_0" dir="l" state="m"/>
+    <connection from=":cross17_17" to="gneE22" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross17_12" to="gneE46" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross17_13" to="gneE23" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross17_13" to="gneE23" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross17_15" to="gneE44" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross18_0" to="gneE20" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross18_1" to="gneE50" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross18_1" to="gneE50" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross18_3" to="gneE17" fromLane="0" toLane="1" via=":cross18_16_0" dir="l" state="m"/>
+    <connection from=":cross18_16" to="gneE17" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross18_4" to="gneE49" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross18_5" to="gneE20" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross18_5" to="gneE20" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross18_7" to="gneE50" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross18_8" to="gneE17" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross18_9" to="gneE49" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross18_9" to="gneE49" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross18_11" to="gneE20" fromLane="0" toLane="1" via=":cross18_17_0" dir="l" state="m"/>
+    <connection from=":cross18_17" to="gneE20" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross18_12" to="gneE50" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross18_13" to="gneE17" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross18_13" to="gneE17" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross18_15" to="gneE49" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross19_0" to="gneE25" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross19_1" to="gneE55" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross19_1" to="gneE55" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross19_3" to="gneE19" fromLane="0" toLane="1" via=":cross19_16_0" dir="l" state="m"/>
+    <connection from=":cross19_16" to="gneE19" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross19_4" to="gneE57" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross19_5" to="gneE25" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross19_5" to="gneE25" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross19_7" to="gneE55" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross19_8" to="gneE19" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross19_9" to="gneE57" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross19_9" to="gneE57" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross19_11" to="gneE25" fromLane="0" toLane="1" via=":cross19_17_0" dir="l" state="m"/>
+    <connection from=":cross19_17" to="gneE25" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross19_12" to="gneE55" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross19_13" to="gneE19" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross19_13" to="gneE19" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross19_15" to="gneE57" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross2_0" to="gneE72" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross2_0" to="gneE72" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross2_2" to="gneE75" fromLane="0" toLane="1" via=":cross2_8_0" dir="l" state="m"/>
+    <connection from=":cross2_8" to="gneE75" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross2_3" to="gneE66" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross2_4" to="gneE72" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross2_5" to="gneE75" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross2_6" to="gneE66" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross2_6" to="gneE66" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross20_0" to="gneE18" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross20_1" to="gneE63" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross20_1" to="gneE63" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross20_3" to="gneE62" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross20_3" to="gneE62" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross20_5" to="gneE18" fromLane="0" toLane="1" via=":cross20_8_0" dir="l" state="m"/>
+    <connection from=":cross20_8" to="gneE18" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross20_6" to="gneE63" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross20_7" to="gneE62" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross21_0" to="gneE26" fromLane="0" toLane="0" dir="l" state="M"/>
+    <connection from=":cross21_1" to="gneE26" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross21_2" to="gneE40" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross21_3" to="gneE40" fromLane="0" toLane="1" dir="r" state="M"/>
+    <connection from=":cross22_0" to="gneE34" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross22_1" to="gneE27" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross22_2" to="gneE45" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross22_3" to="gneE34" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross22_3" to="gneE34" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross22_5" to="gneE27" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross22_5" to="gneE27" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross22_7" to="gneE45" fromLane="0" toLane="1" via=":cross22_8_0" dir="l" state="m"/>
+    <connection from=":cross22_8" to="gneE45" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross23_0" to="gneE33" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross23_1" to="gneE28" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross23_2" to="gneE51" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross23_3" to="gneE33" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross23_3" to="gneE33" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross23_5" to="gneE28" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross23_5" to="gneE28" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross23_7" to="gneE51" fromLane="0" toLane="1" via=":cross23_8_0" dir="l" state="m"/>
+    <connection from=":cross23_8" to="gneE51" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross24_0" to="gneE32" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross24_1" to="gneE29" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross24_2" to="gneE56" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross24_3" to="gneE32" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross24_3" to="gneE32" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross24_5" to="gneE29" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross24_5" to="gneE29" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross24_7" to="gneE56" fromLane="0" toLane="1" via=":cross24_8_0" dir="l" state="m"/>
+    <connection from=":cross24_8" to="gneE56" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross25_0" to="gneE30" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross25_1" to="gneE30" fromLane="0" toLane="1" dir="r" state="M"/>
+    <connection from=":cross25_2" to="gneE64" fromLane="0" toLane="0" dir="l" state="M"/>
+    <connection from=":cross25_3" to="gneE64" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross3_0" to="gneE71" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross3_0" to="gneE71" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross3_2" to="gneE77" fromLane="0" toLane="1" via=":cross3_8_0" dir="l" state="m"/>
+    <connection from=":cross3_8" to="gneE77" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross3_3" to="gneE67" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross3_4" to="gneE71" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross3_5" to="gneE77" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross3_6" to="gneE67" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross3_6" to="gneE67" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross4_0" to="gneE70" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross4_0" to="gneE70" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross4_2" to="gneE79" fromLane="0" toLane="1" via=":cross4_8_0" dir="l" state="m"/>
+    <connection from=":cross4_8" to="gneE79" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross4_3" to="gneE68" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross4_4" to="gneE70" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross4_5" to="gneE79" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross4_6" to="gneE68" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross4_6" to="gneE68" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross5_0" to="gneE69" fromLane="0" toLane="0" dir="l" state="M"/>
+    <connection from=":cross5_1" to="gneE69" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross5_2" to="gneE81" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross5_3" to="gneE81" fromLane="0" toLane="1" dir="r" state="M"/>
+    <connection from=":cross6_0" to="gneE35" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross6_0" to="gneE35" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross6_2" to="gneE4" fromLane="0" toLane="1" via=":cross6_8_0" dir="l" state="m"/>
+    <connection from=":cross6_8" to="gneE4" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross6_3" to="gneE74" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross6_4" to="gneE35" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross6_5" to="gneE4" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross6_6" to="gneE74" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross6_6" to="gneE74" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross7_0" to="gneE5" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross7_1" to="gneE41" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross7_1" to="gneE41" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross7_3" to="gneE0" fromLane="0" toLane="1" via=":cross7_16_0" dir="l" state="m"/>
+    <connection from=":cross7_16" to="gneE0" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross7_4" to="gneE76" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross7_5" to="gneE5" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross7_5" to="gneE5" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross7_7" to="gneE41" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross7_8" to="gneE0" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross7_9" to="gneE76" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross7_9" to="gneE76" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross7_11" to="gneE5" fromLane="0" toLane="1" via=":cross7_17_0" dir="l" state="m"/>
+    <connection from=":cross7_17" to="gneE5" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross7_12" to="gneE41" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross7_13" to="gneE0" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross7_13" to="gneE0" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross7_15" to="gneE76" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross8_0" to="gneE1" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross8_1" to="gneE47" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross8_1" to="gneE47" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross8_3" to="gneE2" fromLane="0" toLane="1" via=":cross8_16_0" dir="l" state="m"/>
+    <connection from=":cross8_16" to="gneE2" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross8_4" to="gneE78" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross8_5" to="gneE1" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross8_5" to="gneE1" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross8_7" to="gneE47" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross8_8" to="gneE2" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross8_9" to="gneE78" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross8_9" to="gneE78" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross8_11" to="gneE1" fromLane="0" toLane="1" via=":cross8_17_0" dir="l" state="m"/>
+    <connection from=":cross8_17" to="gneE1" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross8_12" to="gneE47" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross8_13" to="gneE2" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross8_13" to="gneE2" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross8_15" to="gneE78" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross9_0" to="gneE3" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross9_1" to="gneE53" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross9_1" to="gneE53" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross9_3" to="gneE6" fromLane="0" toLane="1" via=":cross9_16_0" dir="l" state="m"/>
+    <connection from=":cross9_16" to="gneE6" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross9_4" to="gneE80" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross9_5" to="gneE3" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross9_5" to="gneE3" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross9_7" to="gneE53" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross9_8" to="gneE6" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross9_9" to="gneE80" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross9_9" to="gneE80" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross9_11" to="gneE3" fromLane="0" toLane="1" via=":cross9_17_0" dir="l" state="m"/>
+    <connection from=":cross9_17" to="gneE3" fromLane="0" toLane="1" dir="l" state="M"/>
+    <connection from=":cross9_12" to="gneE53" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from=":cross9_13" to="gneE6" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":cross9_13" to="gneE6" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":cross9_15" to="gneE80" fromLane="0" toLane="1" dir="l" state="M"/>
+
+</net>
